@@ -3,9 +3,9 @@ import os
 
 os.chdir("C:\Users\H Stamp\Documents\GitHub\Hstamp.github.io\speech_library")
 
-speech_number = 15
+speech_number = 364
 
-while speech_number >= 10:
+while speech_number >= 1:
 
     wordcount = collections.Counter()
     with open (str(speech_number) + ".html", "r") as speech_file:
