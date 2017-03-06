@@ -19,6 +19,7 @@ while speech_number >= 1:
         #del wordcount["a"]
 
     with open("top_twenty_words.txt", "w") as f:
+        f.write("Top 20 words from speech %s" % speech_number)
         for letter, count in wordcount.most_common(20): #showing top 20 words
             f.write("%s: %d" % (letter, count))
 
