@@ -1,0 +1,11 @@
+Top 10 words from speech 1: 
+people: 13 
+speech,: 12 
+about: 11 
+Britain: 9 
+more: 8 
+long: 8 
+than: 8 
+my: 7 
+British: 7 
+They: 7 
