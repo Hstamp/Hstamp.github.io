@@ -1,0 +1,21 @@
+Top 20 words from speech 206: 
+people: 22 
+government: 21 
+Britain: 19 
+new: 17 
+first: 16 
+Tory: 13 
+big: 13 
+country: 11 
+cuts: 11 
+million: 11 
+second: 10 
+right: 10 
+fight: 10 
+British: 10 
+schools: 9 
+Time: 9 
+economy: 9 
+world: 9 
+public: 9 
+set: 9 

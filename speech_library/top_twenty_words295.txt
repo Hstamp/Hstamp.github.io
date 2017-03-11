@@ -1,0 +1,21 @@
+Top 20 words from speech 295: 
+rights: 18 
+human: 16 
+Commission: 10 
+Rights: 8 
+Human: 6 
+White: 5 
+Paper: 5 
+work: 4 
+key: 4 
+respect: 4 
+fairness: 3 
+British: 3 
+equality: 3 
+build: 3 
+new: 3 
+culture: 3 
+politics,: 3 
+arguments: 3 
+Disability: 3 
+Commission's: 3 

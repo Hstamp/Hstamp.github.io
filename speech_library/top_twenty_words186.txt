@@ -1,0 +1,21 @@
+Top 20 words from speech 186: 
+people: 29 
+public: 21 
+world: 17 
+social: 15 
+community: 13 
+British: 13 
+new: 11 
+justice: 11 
+September: 9 
+power: 9 
+believe: 8 
+Taliban: 8 
+better: 7 
+against: 7 
+values: 7 
+New: 7 
+sector: 7 
+economic: 7 
+spending: 7 
+private: 7 

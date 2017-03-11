@@ -1,0 +1,21 @@
+Top 20 words from speech 290: 
+people: 14 
+behaviour: 11 
+anti-social: 11 
+criminal: 9 
+young: 8 
+communities: 8 
+society: 8 
+respect: 8 
+court: 7 
+British: 7 
+crime: 7 
+police: 6 
+modern: 6 
+new: 6 
+provide: 5 
+law: 5 
+activities: 5 
+plan: 5 
+traditional: 5 
+community: 5 

@@ -1,0 +1,21 @@
+Top 20 words from speech 112: 
+great: 20 
+Conference: 12 
+Government: 11 
+British: 11 
+change: 9 
+million: 9 
+Wilson: 9 
+own: 9 
+plans: 8 
+present: 8 
+people: 7 
+Sir: 7 
+Conference.: 7 
+nothing: 7 
+Labour: 7 
+individual: 7 
+country: 6 
+today: 6 
+Smith: 6 
+new: 5 

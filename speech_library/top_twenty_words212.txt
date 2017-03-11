@@ -1,0 +1,21 @@
+Top 20 words from speech 212: 
+generation: 36 
+new: 27 
+change: 18 
+country: 18 
+people: 17 
+old: 15 
+thinking: 15 
+right: 14 
+government: 14 
+believe: 13 
+Labour: 13 
+understand: 12 
+support: 11 
+economy: 11 
+good: 11 
+politics: 10 
+public: 10 
+work: 9 
+proud: 9 
+responsibility: 9 

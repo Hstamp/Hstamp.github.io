@@ -1,0 +1,21 @@
+Top 20 words from speech 148: 
+people: 36 
+country: 13 
+Britain: 13 
+own: 12 
+Conservatives: 10 
+schools: 8 
+right: 8 
+children: 8 
+public: 8 
+believe: 8 
+society: 8 
+life: 7 
+families: 7 
+left: 7 
+live: 7 
+state: 7 
+generation: 7 
+services: 7 
+parents: 7 
+young: 7 

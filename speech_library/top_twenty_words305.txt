@@ -1,0 +1,21 @@
+Top 20 words from speech 305: 
+terrorism: 31 
+rights: 23 
+right: 21 
+Government: 15 
+international: 15 
+risk: 14 
+Convention: 14 
+UK: 14 
+new: 13 
+European: 13 
+legislation: 13 
+case: 13 
+terrorist: 12 
+Act: 12 
+balance: 11 
+law: 11 
+security: 11 
+Human: 10 
+terrorists: 10 
+national: 10 

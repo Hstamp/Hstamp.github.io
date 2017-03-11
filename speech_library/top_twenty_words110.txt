@@ -1,0 +1,21 @@
+Top 20 words from speech 110: 
+great: 16 
+new: 13 
+help: 10 
+Commonwealth: 10 
+country: 9 
+Government: 9 
+old: 8 
+today: 8 
+believe: 8 
+world: 8 
+own: 8 
+right: 7 
+first: 7 
+experience: 7 
+Europe: 7 
+course,: 7 
+whole: 7 
+countries: 6 
+full: 6 
+social: 6 

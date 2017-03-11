@@ -1,0 +1,21 @@
+Top 20 words from speech 126: 
+people: 19 
+Government: 13 
+great: 11 
+nation: 9 
+public: 9 
+British: 9 
+own: 9 
+new: 8 
+free: 8 
+healthy: 8 
+million: 8 
+economic: 7 
+Soviet: 6 
+unemployment: 6 
+policy: 6 
+sector: 6 
+long: 6 
+private: 6 
+society: 6 
+face: 6 

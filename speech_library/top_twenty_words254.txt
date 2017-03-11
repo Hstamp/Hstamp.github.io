@@ -1,0 +1,21 @@
+Top 20 words from speech 254: 
+Government: 17 
+Labour: 14 
+tax: 12 
+election: 11 
+public: 10 
+health: 7 
+campaign: 6 
+Liberal: 6 
+new: 6 
+education: 6 
+money: 6 
+income: 6 
+better: 5 
+mandate: 5 
+victories: 5 
+won: 5 
+utility: 5 
+pay: 5 
+people: 5 
+taxation.</p>: 5 

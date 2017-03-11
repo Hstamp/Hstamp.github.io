@@ -1,0 +1,21 @@
+Top 20 words from speech 68: 
+great: 17 
+London: 14 
+France: 12 
+doubt: 12 
+country: 11 
+Government: 11 
+men: 10 
+matter: 10 
+result: 9 
+people: 9 
+organisation: 9 
+territory: 9 
+moment: 9 
+Lord: 8 
+another: 8 
+treaty: 8 
+own: 8 
+against: 7 
+important: 7 
+Gladstone: 7 

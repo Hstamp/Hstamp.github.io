@@ -1,0 +1,21 @@
+Top 20 words from speech 137: 
+people: 26 
+Labour: 18 
+Britain: 14 
+Conservative: 13 
+own: 13 
+new: 12 
+Health: 11 
+country: 10 
+right: 10 
+believe: 10 
+good: 9 
+great: 9 
+European: 7 
+first: 7 
+parents: 7 
+taxes: 7 
+Britain.: 6 
+future: 6 
+Service: 6 
+Government: 6 

@@ -1,0 +1,21 @@
+Top 20 words from speech 336: 
+global: 16 
+common: 11 
+faith: 11 
+world: 10 
+people: 10 
+first: 8 
+believe: 8 
+shared: 8 
+together: 7 
+moral: 6 
+generation: 6 
+faiths: 6 
+young: 5 
+working: 5 
+sense: 5 
+world.: 5 
+social: 4 
+values: 4 
+British: 4 
+together.: 4 

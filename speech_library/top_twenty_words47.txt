@@ -1,0 +1,21 @@
+Top 20 words from speech 47: 
+government: 40 
+new: 25 
+people: 23 
+British: 20 
+public: 18 
+Alliance: 16 
+private: 15 
+local: 13 
+Britain: 12 
+good: 11 
+power: 9 
+partnership: 9 
+investment: 8 
+help: 8 
+jobs.</p>: 8 
+joint: 8 
+side: 7 
+country: 7 
+Prime: 7 
+Labour: 7 

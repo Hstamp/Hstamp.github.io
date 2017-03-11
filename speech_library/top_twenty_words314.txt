@@ -1,0 +1,21 @@
+Top 20 words from speech 314: 
+people: 18 
+social: 13 
+government: 13 
+Britain: 13 
+great: 10 
+Labour: 10 
+first: 9 
+responsibility: 9 
+right: 8 
+Conservative: 8 
+new: 7 
+local: 7 
+ground: 7 
+state: 7 
+provide: 6 
+trust: 6 
+Tony: 6 
+Gordon: 6 
+proud: 6 
+answer: 5 

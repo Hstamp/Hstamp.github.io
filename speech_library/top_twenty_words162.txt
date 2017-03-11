@@ -1,0 +1,21 @@
+Top 20 words from speech 162: 
+Government: 28 
+economic: 20 
+new: 17 
+world: 16 
+Labour: 16 
+Britain: 16 
+British: 13 
+country: 12 
+believe: 12 
+work: 10 
+industrial: 10 
+defence: 10 
+first: 10 
+Tory: 10 
+United: 10 
+against: 9 
+election: 9 
+great: 9 
+nuclear: 9 
+opportunity: 8 

@@ -1,0 +1,21 @@
+Top 20 words from speech 239: 
+European: 18 
+Europe: 16 
+people: 11 
+Union: 10 
+simply: 6 
+peace: 6 
+Europe's: 5 
+debate: 4 
+Europe,: 4 
+British: 4 
+member: 4 
+good: 4 
+carry: 4 
+constitutional: 4 
+believe: 4 
+seek: 4 
+means: 4 
+great: 4 
+world: 4 
+right: 4 

@@ -1,0 +1,21 @@
+Top 20 words from speech 38: 
+Liberal: 19 
+society: 14 
+Labour: 14 
+Britain: 12 
+liberty: 10 
+new: 10 
+national: 9 
+free: 8 
+Liberals: 8 
+left: 8 
+individual: 8 
+great: 8 
+British: 8 
+right: 7 
+public: 7 
+people: 6 
+Assembly: 6 
+Conservative: 6 
+freedom: 6 
+own: 6 

@@ -1,0 +1,21 @@
+Top 20 words from speech 123: 
+Government: 32 
+Labour: 28 
+people: 21 
+Conservative: 20 
+own: 13 
+believe: 11 
+Socialist: 10 
+Britain: 10 
+election: 9 
+work: 7 
+union: 7 
+good: 7 
+cut: 7 
+British: 7 
+news: 6 
+country: 6 
+leaders: 5 
+Britain.: 5 
+defence: 5 
+Ulster: 5 

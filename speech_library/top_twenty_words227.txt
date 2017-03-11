@@ -1,0 +1,21 @@
+Top 20 words from speech 227: 
+British: 25 
+Liberal: 24 
+people: 15 
+European: 14 
+Government: 14 
+Scottish: 13 
+BSE: 12 
+Britain's: 11 
+Minister: 9 
+Democrats: 9 
+rural: 9 
+crisis: 8 
+policy: 8 
+Prime: 8 
+Democrat: 8 
+Conservatives: 7 
+food: 7 
+confidence: 7 
+consumer: 6 
+beef: 6 

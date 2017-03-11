@@ -1,0 +1,21 @@
+Top 20 words from speech 174: 
+Government: 25 
+industrial: 22 
+people: 21 
+economic: 18 
+industry: 15 
+new: 14 
+trade: 14 
+Labour: 12 
+work: 11 
+employers: 11 
+(Applause): 11 
+British: 11 
+unemployment: 10 
+co-operation: 9 
+better: 9 
+Party,: 9 
+world: 9 
+social: 9 
+Social: 9 
+own: 9 

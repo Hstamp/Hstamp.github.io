@@ -1,0 +1,21 @@
+Top 20 words from speech 362: 
+people: 40 
+country: 18 
+Britain: 18 
+Liberal: 17 
+Labour: 13 
+Brexit: 12 
+proud: 11 
+Democrats: 11 
+British: 11 
+needs: 10 
+government: 10 
+Corbyn: 9 
+Jeremy: 9 
+children: 9 
+good: 9 
+nothing: 9 
+work: 8 
+referendum: 8 
+stand: 8 
+NHS: 8 

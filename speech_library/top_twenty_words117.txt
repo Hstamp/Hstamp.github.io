@@ -1,0 +1,21 @@
+Top 20 words from speech 117: 
+Government: 27 
+new: 13 
+own: 13 
+nation: 12 
+British: 12 
+first: 11 
+free: 10 
+task: 10 
+country: 9 
+people: 9 
+provide: 8 
+long: 8 
+responsible: 7 
+today: 7 
+interests: 7 
+limitations: 7 
+freedom: 7 
+room: 6 
+better: 6 
+change: 6 

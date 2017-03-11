@@ -1,0 +1,21 @@
+Top 20 words from speech 307: 
+public: 53 
+services: 40 
+people: 36 
+new: 23 
+course: 19 
+frontline: 13 
+able: 11 
+rights: 10 
+social: 10 
+future: 10 
+help: 10 
+local: 10 
+security: 9 
+change: 9 
+low: 9 
+services,: 9 
+believe: 9 
+spending: 9 
+meet: 9 
+people's: 8 

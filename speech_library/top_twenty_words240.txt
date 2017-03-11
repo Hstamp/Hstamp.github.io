@@ -1,0 +1,21 @@
+Top 20 words from speech 240: 
+vote: 16 
+campaign: 12 
+people: 12 
+education: 11 
+crusade: 10 
+Labour: 9 
+Scottish: 8 
+new: 8 
+Liberal: 7 
+country: 6 
+Conservative: 6 
+fight: 6 
+British: 5 
+believe: 5 
+trust.</p>: 5 
+listening: 5 
+children: 4 
+investment: 4 
+campaign,: 4 
+won: 4 

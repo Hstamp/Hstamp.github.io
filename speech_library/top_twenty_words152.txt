@@ -1,0 +1,21 @@
+Top 20 words from speech 152: 
+people: 64 
+new: 22 
+great: 21 
+world: 20 
+country: 18 
+changes: 16 
+children: 15 
+change: 14 
+believe: 14 
+right: 13 
+system: 13 
+public: 12 
+society: 12 
+modern: 11 
+country.: 11 
+proud: 11 
+politics: 11 
+help: 11 
+tax: 11 
+government: 11 

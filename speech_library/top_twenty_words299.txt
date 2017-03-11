@@ -1,0 +1,21 @@
+Top 20 words from speech 299: 
+rights: 96 
+Rights: 55 
+Human: 49 
+Act: 40 
+human: 36 
+Parliament: 31 
+public: 22 
+British: 21 
+right: 17 
+law: 16 
+Convention: 14 
+Declaration: 14 
+new: 13 
+against: 13 
+rights,: 13 
+courts: 13 
+judges: 12 
+people: 12 
+Bill: 12 
+laws: 11 

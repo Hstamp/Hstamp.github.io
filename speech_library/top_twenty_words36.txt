@@ -1,0 +1,21 @@
+Top 20 words from speech 36: 
+people: 30 
+country: 19 
+public: 15 
+Tory: 12 
+British: 12 
+Labour: 12 
+Liberals: 11 
+believe: 11 
+country.: 10 
+Britain: 10 
+reforms: 9 
+Liberal: 9 
+system: 9 
+life: 8 
+country,: 8 
+proposals: 8 
+change: 8 
+great: 8 
+reform: 8 
+new: 7 

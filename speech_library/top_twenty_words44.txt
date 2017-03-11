@@ -1,0 +1,21 @@
+Top 20 words from speech 44: 
+Alliance: 18 
+parties: 13 
+Labour: 11 
+new: 10 
+election: 9 
+British: 8 
+Liberal: 8 
+own: 6 
+public: 5 
+increase: 5 
+achieve: 5 
+common: 5 
+real: 5 
+together: 5 
+campaign: 4 
+system: 4 
+constituency: 4 
+allocation: 4 
+left: 4 
+government: 4 

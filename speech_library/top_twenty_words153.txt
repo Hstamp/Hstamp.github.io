@@ -1,0 +1,21 @@
+Top 20 words from speech 153: 
+people: 23 
+government: 20 
+believe: 18 
+Conservative: 16 
+big: 16 
+financial: 15 
+country: 14 
+times: 13 
+state: 13 
+work: 12 
+good: 12 
+right: 11 
+first: 11 
+social: 11 
+change: 10 
+responsibility: 10 
+money: 9 
+broken: 9 
+economic: 9 
+society: 9 

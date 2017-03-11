@@ -1,0 +1,21 @@
+Top 20 words from speech 334: 
+world: 20 
+modern: 13 
+international: 13 
+community: 13 
+global: 12 
+values: 12 
+right: 10 
+new: 9 
+nations: 9 
+mutual: 8 
+faith: 8 
+Northern: 8 
+equal: 8 
+human: 7 
+deal: 7 
+future: 7 
+social: 7 
+change.: 7 
+responsibility: 7 
+believe: 7 

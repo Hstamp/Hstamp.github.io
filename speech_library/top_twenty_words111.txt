@@ -1,0 +1,21 @@
+Top 20 words from speech 111: 
+new: 23 
+Europe: 19 
+great: 18 
+European: 17 
+economic: 15 
+Britain: 11 
+world: 10 
+old: 9 
+negotiations: 9 
+Europe,: 9 
+change: 9 
+industrial: 9 
+Commonwealth: 9 
+British: 8 
+Community: 8 
+well: 8 
+home: 8 
+modern: 7 
+country: 7 
+industry: 7 

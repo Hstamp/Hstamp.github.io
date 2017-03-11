@@ -1,0 +1,21 @@
+Top 20 words from speech 360: 
+people: 41 
+country: 24 
+Britain: 24 
+children: 21 
+new: 17 
+British: 17 
+Conservative: 16 
+social: 15 
+mean: 13 
+greater: 13 
+Greater: 12 
+big: 11 
+working: 9 
+help: 9 
+build: 9 
+homes: 9 
+people,: 8 
+work: 7 
+right: 7 
+man: 7 

@@ -1,0 +1,21 @@
+Top 20 words from speech 84: 
+Government: 16 
+House: 16 
+great: 10 
+work: 7 
+Commons,: 7 
+members: 7 
+Commons: 7 
+Liberal: 6 
+vote: 6 
+believe: 6 
+majority: 6 
+sure: 6 
+confidence: 5 
+spoke: 5 
+rather: 5 
+questions: 5 
+deal: 5 
+large: 4 
+Government,: 4 
+Parliament: 4 

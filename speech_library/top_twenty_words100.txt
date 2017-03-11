@@ -1,0 +1,21 @@
+Top 20 words from speech 100: 
+British: 3 
+Churchill: 3 
+politics,: 3 
+election: 3 
+general: 3 
+british: 2 
+month: 1 
+cameron: 1 
+src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js": 1 
+s.parentNode.insertBefore(ga,: 1 
+Policy</a></span>: 1 
+href="about.htm">About</a>: 1 
+crisis,: 1 
+brown: 1 
+facebook: 1 
+decentralise: 1 
+Research</a></li></ul></li><li: 1 
+University,: 1 
+href="resources.htm">Resources</a><ul><li><a: 1 
+Course: 1 

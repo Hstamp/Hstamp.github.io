@@ -1,0 +1,21 @@
+Top 20 words from speech 49: 
+Labour: 11 
+Alliance: 8 
+country: 6 
+people: 6 
+parties: 6 
+women: 5 
+Government: 5 
+government: 5 
+Thatcher: 5 
+public: 4 
+British: 4 
+Tory: 4 
+Conservative: 4 
+election: 4 
+win,: 4 
+society: 3 
+national: 3 
+hope: 3 
+closer: 3 
+politics,: 3 

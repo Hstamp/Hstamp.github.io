@@ -1,0 +1,21 @@
+Top 20 words from speech 32: 
+Liberal: 18 
+freedom: 14 
+war: 13 
+against: 9 
+enemy: 7 
+great: 7 
+British: 7 
+man: 6 
+Royal: 6 
+Nazi: 6 
+Government: 6 
+men: 5 
+first: 5 
+Services: 5 
+world: 5 
+social: 5 
+Hitler: 5 
+system: 5 
+fighting: 5 
+possible: 4 

@@ -1,0 +1,21 @@
+Top 20 words from speech 225: 
+country: 9 
+British: 5 
+world: 5 
+people: 5 
+own: 5 
+Britain: 5 
+round: 4 
+good: 4 
+Prime: 4 
+life: 4 
+1997: 3 
+future.: 3 
+public: 3 
+social: 3 
+mean: 3 
+first: 3 
+believe: 3 
+new: 3 
+politics,: 3 
+according: 3 

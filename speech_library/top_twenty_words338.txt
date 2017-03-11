@@ -1,0 +1,21 @@
+Top 20 words from speech 338: 
+nation: 24 
+Christian: 13 
+people: 12 
+life: 11 
+national: 11 
+moral: 9 
+own: 8 
+public: 7 
+sense: 7 
+believe: 7 
+state: 7 
+spirit: 6 
+economic: 6 
+called: 6 
+well: 6 
+church: 6 
+work: 5 
+personal: 5 
+men: 5 
+values: 5 

@@ -1,0 +1,21 @@
+Top 20 words from speech 150: 
+people: 38 
+British: 16 
+Conservative: 14 
+government: 14 
+Britain: 14 
+trust: 9 
+police: 9 
+first: 9 
+Government: 9 
+Labour: 9 
+<p><strong>Action: 8 
+stop: 8 
+country: 8 
+Tony: 8 
+better: 8 
+world: 8 
+schools: 7 
+European: 7 
+families: 7 
+right: 7 

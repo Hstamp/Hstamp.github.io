@@ -1,0 +1,21 @@
+Top 20 words from speech 9: 
+Government: 17 
+country: 16 
+great: 15 
+war: 14 
+own: 11 
+British: 10 
+whole: 8 
+men: 7 
+Liberal: 7 
+against: 7 
+man: 7 
+first: 7 
+millions: 7 
+known: 7 
+government: 7 
+new: 6 
+interest: 6 
+policy: 6 
+strong: 6 
+expenditure: 6 

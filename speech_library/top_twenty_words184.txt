@@ -1,0 +1,21 @@
+Top 20 words from speech 184: 
+people: 16 
+new: 15 
+fair: 13 
+world: 12 
+Labour: 11 
+Britain: 11 
+right: 10 
+Government: 10 
+British: 10 
+21st: 9 
+believe: 9 
+Tories: 9 
+future: 9 
+Tory: 8 
+children: 8 
+Europe: 8 
+century: 8 
+good: 7 
+natural: 7 
+first: 7 

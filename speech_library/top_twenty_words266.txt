@@ -1,0 +1,21 @@
+Top 20 words from speech 266: 
+new: 28 
+Labour: 20 
+people: 17 
+government: 16 
+Britain: 15 
+tax: 14 
+economic: 12 
+work: 11 
+British: 11 
+Tory: 10 
+first: 9 
+waste: 9 
+country: 8 
+public: 8 
+young: 8 
+unemployed: 7 
+pay: 7 
+real: 7 
+social: 7 
+moral: 6 

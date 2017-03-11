@@ -1,0 +1,21 @@
+Top 20 words from speech 40: 
+Liberal: 17 
+Labour: 16 
+new: 14 
+spirit: 13 
+national: 13 
+industrial: 12 
+country: 11 
+Tory: 11 
+policies: 11 
+Britain: 11 
+Government: 10 
+great: 10 
+together: 9 
+policy: 9 
+life: 8 
+right: 8 
+economic: 8 
+British: 8 
+work: 7 
+Liberals: 7 

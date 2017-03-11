@@ -1,0 +1,21 @@
+Top 20 words from speech 91: 
+Government: 19 
+country: 13 
+National: 12 
+continued: 8 
+men: 7 
+people: 7 
+great: 7 
+agreements: 7 
+Minister: 6 
+increase: 6 
+Parliament: 6 
+Ottawa: 6 
+Prime: 6 
+party,: 5 
+Liberal: 5 
+unemployment: 5 
+Baldwin: 5 
+today: 5 
+months: 5 
+tariffs: 5 

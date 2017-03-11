@@ -1,0 +1,21 @@
+Top 20 words from speech 158: 
+great: 15 
+work: 10 
+policy: 7 
+Labour: 7 
+today: 6 
+team: 5 
+social: 5 
+economic: 5 
+Government: 5 
+Government.: 4 
+Parliament: 4 
+democracy: 4 
+British: 4 
+Socialist: 4 
+Act,: 4 
+principles: 4 
+movement: 3 
+full: 3 
+Parliament,: 3 
+stress: 3 

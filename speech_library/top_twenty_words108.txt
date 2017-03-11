@@ -1,0 +1,21 @@
+Top 20 words from speech 108: 
+world: 17 
+Commonwealth: 13 
+great: 11 
+against: 10 
+British: 10 
+new: 8 
+countries: 8 
+United: 8 
+trade: 8 
+free: 6 
+powers: 6 
+economic: 6 
+policy: 6 
+course,: 6 
+individual: 6 
+cut: 6 
+nuclear: 6 
+Britain: 6 
+Lord: 5 
+opportunity: 5 

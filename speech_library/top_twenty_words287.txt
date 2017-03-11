@@ -1,0 +1,21 @@
+Top 20 words from speech 287: 
+people: 30 
+police: 25 
+crime: 24 
+antisocial: 23 
+public: 20 
+behaviour: 19 
+local: 19 
+tackle: 10 
+feel: 10 
+Home: 9 
+confidence: 9 
+support: 8 
+first: 6 
+impact: 6 
+measures: 6 
+statistics: 6 
+fact: 6 
+government: 6 
+provide: 5 
+Crime: 5 

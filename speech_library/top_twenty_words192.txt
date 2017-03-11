@@ -1,0 +1,21 @@
+Top 20 words from speech 192: 
+people: 33 
+country: 25 
+British: 18 
+new: 15 
+(Applause): 13 
+against: 12 
+government: 12 
+defence: 11 
+policies: 11 
+investment: 11 
+right: 10 
+nuclear: 10 
+country,: 9 
+real: 9 
+people,: 9 
+South: 9 
+recovery: 8 
+democratic: 8 
+country.: 8 
+hear: 8 

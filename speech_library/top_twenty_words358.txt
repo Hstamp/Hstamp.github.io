@@ -1,0 +1,21 @@
+Top 20 words from speech 358: 
+international: 5 
+first: 4 
+military: 3 
+British: 3 
+facing: 3 
+politics,: 3 
+against: 3 
+response</p>: 3 
+United: 3 
+civil: 3 
+principles.</p>: 3 
+hopelessness.</p>: 2 
+law,</p>: 2 
+involves: 2 
+armed: 2 
+quarrel: 2 
+provide: 2 
+Liberal: 2 
+truth: 2 
+liberties.</p>: 2 

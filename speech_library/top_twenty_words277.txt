@@ -1,0 +1,21 @@
+Top 20 words from speech 277: 
+people: 35 
+new: 25 
+British: 19 
+Britain: 19 
+believe: 15 
+Labour: 14 
+values: 13 
+change: 12 
+young: 11 
+government: 11 
+right: 10 
+support: 10 
+power: 10 
+public: 10 
+social: 10 
+together: 9 
+local: 9 
+communities: 9 
+community: 9 
+country: 8 

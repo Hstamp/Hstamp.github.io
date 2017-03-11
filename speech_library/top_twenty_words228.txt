@@ -1,0 +1,21 @@
+Top 20 words from speech 228: 
+local: 68 
+government: 36 
+new: 24 
+people: 14 
+Government: 14 
+power: 14 
+democracy: 10 
+Local: 10 
+national: 9 
+councils: 8 
+system: 7 
+fair: 6 
+government,: 5 
+direct: 5 
+British: 5 
+good: 5 
+level: 5 
+kind: 5 
+hope: 5 
+general: 5 

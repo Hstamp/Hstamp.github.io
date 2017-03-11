@@ -1,0 +1,21 @@
+Top 20 words from speech 31: 
+Liberal: 26 
+League: 24 
+Government: 24 
+country: 17 
+unemployment: 14 
+power: 14 
+economic: 13 
+men: 11 
+great: 11 
+Convention: 9 
+Liberals: 9 
+trade: 9 
+world: 9 
+new: 8 
+against: 8 
+first: 8 
+peace: 8 
+means: 8 
+own: 8 
+secure: 7 

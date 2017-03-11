@@ -1,0 +1,21 @@
+Top 20 words from speech 328: 
+faith: 54 
+public: 35 
+religious: 33 
+politics: 33 
+right: 20 
+people: 18 
+moral: 15 
+liberal: 14 
+God: 13 
+debate: 13 
+conscience: 12 
+politics,: 12 
+world: 10 
+values: 9 
+first: 9 
+believe: 9 
+secularism: 8 
+life: 8 
+claim: 8 
+square: 8 

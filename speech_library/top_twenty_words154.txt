@@ -1,0 +1,21 @@
+Top 20 words from speech 154: 
+government: 26 
+country: 21 
+big: 20 
+people: 16 
+children: 15 
+British: 15 
+life: 12 
+pay: 12 
+Britain: 11 
+debt: 10 
+today: 10 
+new: 9 
+love: 9 
+family: 9 
+help: 9 
+good: 9 
+work: 8 
+protect: 8 
+together: 8 
+different: 8 

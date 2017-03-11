@@ -1,0 +1,21 @@
+Top 20 words from speech 85: 
+loan: 23 
+country: 21 
+trade: 20 
+Government: 19 
+Germany: 13 
+Russian: 12 
+people: 10 
+guarantee: 10 
+Labour: 10 
+(Cheers.): 9 
+part: 9 
+Dawes: 9 
+Treaty: 8 
+own: 8 
+Russia: 7 
+German: 7 
+world: 7 
+present: 7 
+proposed: 6 
+Soviet: 6 

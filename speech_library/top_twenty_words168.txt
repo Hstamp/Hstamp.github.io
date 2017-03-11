@@ -1,0 +1,21 @@
+Top 20 words from speech 168: 
+Government: 31 
+economic: 19 
+Labour: 18 
+social: 17 
+Tory: 15 
+public: 15 
+first: 14 
+new: 12 
+industrial: 12 
+policy: 12 
+prices: 12 
+own: 12 
+country: 11 
+means: 10 
+Parliament: 10 
+immediate: 10 
+Conservative: 10 
+decision: 10 
+private: 10 
+decisions: 9 

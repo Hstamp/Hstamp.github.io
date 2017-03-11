@@ -1,0 +1,21 @@
+Top 20 words from speech 288: 
+against: 6 
+British: 5 
+domestic: 5 
+Labour: 5 
+violence: 4 
+public: 4 
+<p>Voted: 4 
+record: 4 
+behaviour: 3 
+coming: 3 
+police: 3 
+society: 3 
+crime: 3 
+politics,: 3 
+anti-social: 3 
+violent: 3 
+introduced: 3 
+Tories: 2 
+returning: 2 
+safer,: 2 

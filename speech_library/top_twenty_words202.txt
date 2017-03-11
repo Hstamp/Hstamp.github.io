@@ -1,0 +1,21 @@
+Top 20 words from speech 202: 
+new: 40 
+(Applause): 36 
+people: 30 
+Britain: 28 
+Labour: 27 
+government: 24 
+British: 21 
+world: 17 
+age: 17 
+Tories: 15 
+first: 14 
+people.: 13 
+Tory: 12 
+John: 11 
+achievement: 11 
+vow: 10 
+better: 10 
+set: 10 
+country: 9 
+government.: 9 

@@ -1,0 +1,21 @@
+Top 20 words from speech 28: 
+great: 21 
+Government: 14 
+Lloyd: 10 
+British: 10 
+Labour: 10 
+Liberal: 9 
+George: 9 
+men: 8 
+country: 8 
+Germany: 8 
+Treaty: 7 
+war: 6 
+full: 6 
+Government.: 5 
+question: 5 
+machine: 4 
+Herr: 4 
+faced: 4 
+Commission: 4 
+honour: 4 

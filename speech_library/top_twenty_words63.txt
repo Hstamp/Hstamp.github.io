@@ -1,0 +1,21 @@
+Top 20 words from speech 63: 
+people: 15 
+liberal: 15 
+British: 13 
+government: 13 
+Liberal: 12 
+Britain: 12 
+Labour: 8 
+Iraq: 7 
+solutions: 6 
+right: 6 
+prime: 6 
+country: 5 
+left: 5 
+politics: 5 
+Democrats: 5 
+fundamental: 5 
+play: 5 
+general: 5 
+conference: 4 
+election: 4 

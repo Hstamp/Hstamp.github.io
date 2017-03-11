@@ -1,0 +1,21 @@
+Top 20 words from speech 64: 
+Liberal: 22 
+people: 13 
+public: 13 
+Democrats: 11 
+tax: 10 
+politics: 9 
+British: 9 
+Labour: 9 
+new: 8 
+services: 8 
+local: 7 
+opportunity: 7 
+needs: 7 
+Democrat: 7 
+government: 7 
+rule: 7 
+decisions: 6 
+country: 6 
+million: 6 
+reform: 6 

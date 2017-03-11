@@ -1,0 +1,21 @@
+Top 20 words from speech 282: 
+threat: 21 
+Iraq: 20 
+UN: 19 
+September: 15 
+war: 11 
+Saddam: 10 
+act: 10 
+nuclear: 10 
+people: 9 
+international: 9 
+WMD: 9 
+global: 8 
+weapons: 8 
+world: 8 
+states: 8 
+intelligence: 8 
+terrorists: 8 
+security: 7 
+means: 7 
+well: 7 

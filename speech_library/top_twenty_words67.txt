@@ -1,0 +1,21 @@
+Top 20 words from speech 67: 
+change: 31 
+Liberal: 29 
+real: 23 
+people: 19 
+Democrats: 14 
+tax: 13 
+Britain: 13 
+first: 12 
+pay: 12 
+beginning: 11 
+British: 11 
+Conservatives: 10 
+Labour: 10 
+different: 9 
+government: 9 
+new: 8 
+better: 8 
+policy: 8 
+vote: 8 
+right: 7 

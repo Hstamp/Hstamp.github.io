@@ -1,0 +1,21 @@
+Top 20 words from speech 21: 
+policy: 18 
+Liberal: 14 
+great: 13 
+House: 10 
+first: 8 
+long: 7 
+Lord: 6 
+Tory: 6 
+people: 6 
+Sir: 6 
+present: 6 
+Coalition: 6 
+Commons,: 5 
+happened: 5 
+Labour: 5 
+described: 5 
+British: 5 
+new: 4 
+better: 4 
+free: 4 

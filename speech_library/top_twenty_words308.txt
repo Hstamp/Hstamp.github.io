@@ -1,0 +1,21 @@
+Top 20 words from speech 308: 
+New: 11 
+Deal: 8 
+employment: 7 
+new: 6 
+lone: 6 
+work: 5 
+local: 5 
+unemployment: 5 
+people: 5 
+unemployed: 4 
+areas: 4 
+young: 3 
+economy: 3 
+British: 3 
+politics,: 3 
+parents: 3 
+economic: 3 
+Deal,: 3 
+programme: 2 
+full: 2 

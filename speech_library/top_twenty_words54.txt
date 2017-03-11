@@ -1,0 +1,21 @@
+Top 20 words from speech 54: 
+people: 23 
+government: 21 
+Liberal: 19 
+Democrats: 17 
+Europe: 15 
+education: 12 
+House: 11 
+Britain: 10 
+new: 9 
+first: 9 
+Conservative: 9 
+tax: 9 
+own: 9 
+Health: 8 
+means: 8 
+pay: 8 
+Commons: 8 
+British: 8 
+European: 7 
+investment: 7 

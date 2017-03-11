@@ -1,0 +1,21 @@
+Top 20 words from speech 267: 
+Britain: 25 
+Labour: 23 
+tax: 21 
+people: 17 
+new: 14 
+opportunity: 13 
+public: 13 
+Tories: 13 
+British: 11 
+benefit: 10 
+social: 9 
+today: 8 
+education,: 8 
+Kenneth: 8 
+opportunities: 8 
+young: 8 
+education: 8 
+promises: 7 
+billion: 7 
+economy: 7 

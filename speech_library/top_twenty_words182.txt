@@ -1,0 +1,21 @@
+Top 20 words from speech 182: 
+people: 23 
+government: 18 
+Labour: 18 
+change: 16 
+world: 16 
+Britain: 14 
+first: 12 
+future: 12 
+new: 11 
+country: 11 
+New: 11 
+good: 9 
+believe: 9 
+progressive: 9 
+won: 8 
+secure: 7 
+work: 7 
+values: 7 
+changing: 7 
+social: 7 

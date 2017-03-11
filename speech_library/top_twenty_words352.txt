@@ -1,0 +1,21 @@
+Top 20 words from speech 352: 
+Government: 25 
+Liberal: 23 
+people: 23 
+Democrats: 18 
+Labour: 17 
+Britain: 14 
+British: 13 
+first: 12 
+children: 12 
+new: 9 
+liberal: 9 
+politics: 9 
+own: 9 
+different: 8 
+world: 8 
+family: 8 
+help: 8 
+families: 7 
+parties: 7 
+coalition: 7 

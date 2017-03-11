@@ -1,0 +1,21 @@
+Top 20 words from speech 313: 
+people: 43 
+country: 17 
+right: 17 
+economy: 17 
+new: 15 
+world: 13 
+help: 13 
+children: 11 
+everyone: 11 
+Labour: 11 
+system: 10 
+cut: 10 
+build: 10 
+great: 10 
+Britain: 10 
+work: 9 
+means: 8 
+proud: 8 
+leadership: 8 
+government: 8 

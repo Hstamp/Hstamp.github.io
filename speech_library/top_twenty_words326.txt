@@ -1,0 +1,21 @@
+Top 20 words from speech 326: 
+Bible: 25 
+people: 19 
+faith: 15 
+James: 14 
+King: 13 
+stand: 12 
+language: 11 
+moral: 10 
+Christian: 10 
+values: 10 
+great: 10 
+religious: 9 
+country: 9 
+right: 7 
+believe: 7 
+Britain: 7 
+music: 6 
+good: 6 
+church: 6 
+Church: 6 

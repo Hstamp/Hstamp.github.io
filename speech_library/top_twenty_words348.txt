@@ -1,0 +1,21 @@
+Top 20 words from speech 348: 
+social: 20 
+knife: 11 
+broken: 11 
+society: 9 
+crime: 9 
+people: 9 
+Glasgow: 7 
+repair: 7 
+responsibility: 6 
+clear: 6 
+Conservative: 6 
+government: 5 
+family: 4 
+stabbed: 4 
+welfare: 4 
+action: 4 
+British: 4 
+help: 4 
+state: 4 
+crime.: 4 

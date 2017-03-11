@@ -1,0 +1,21 @@
+Top 20 words from speech 286: 
+police: 40 
+people: 38 
+new: 37 
+crime: 34 
+local: 28 
+neighbourhood: 18 
+policing: 16 
+support: 12 
+together: 12 
+crime,: 11 
+public: 11 
+community: 11 
+young: 10 
+service: 9 
+causes: 9 
+first: 8 
+knife: 8 
+communities: 8 
+areas: 8 
+criminals: 7 

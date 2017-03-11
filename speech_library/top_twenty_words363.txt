@@ -1,0 +1,21 @@
+Top 20 words from speech 363: 
+Labour: 49 
+people: 25 
+government: 23 
+new: 18 
+country: 18 
+work: 13 
+public: 12 
+support: 10 
+economy: 10 
+investment: 10 
+social: 10 
+set: 10 
+Tories: 10 
+British: 10 
+National: 9 
+working: 9 
+million: 9 
+build: 9 
+justice: 9 
+great: 9 

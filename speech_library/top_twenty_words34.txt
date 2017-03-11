@@ -1,0 +1,21 @@
+Top 20 words from speech 34: 
+war: 23 
+Liberal: 19 
+people: 16 
+great: 15 
+work: 10 
+economic: 10 
+international: 9 
+United: 9 
+Government: 9 
+own: 9 
+men: 8 
+good: 8 
+British: 7 
+future: 6 
+problems: 6 
+countries: 5 
+country: 5 
+life: 5 
+Liberals: 5 
+Mussolini: 5 

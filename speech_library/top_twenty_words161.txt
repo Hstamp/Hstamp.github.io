@@ -1,0 +1,21 @@
+Top 20 words from speech 161: 
+great: 30 
+people: 17 
+policy: 11 
+work: 9 
+world: 9 
+Government: 9 
+Labour: 9 
+months: 8 
+deal: 7 
+free: 6 
+Manifesto: 6 
+new: 6 
+eighteen: 6 
+support: 6 
+Britain: 6 
+co-operation: 5 
+society: 5 
+believe: 5 
+Election: 5 
+case: 5 

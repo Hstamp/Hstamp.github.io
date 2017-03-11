@@ -1,0 +1,21 @@
+Top 20 words from speech 197: 
+people: 42 
+government: 37 
+Britain: 29 
+British: 28 
+country: 20 
+Labour: 17 
+public: 16 
+new: 15 
+modern: 14 
+economic: 14 
+tax: 14 
+system: 13 
+National: 12 
+change: 12 
+policies: 12 
+market: 11 
+Tory: 11 
+help: 11 
+health: 11 
+Health: 10 

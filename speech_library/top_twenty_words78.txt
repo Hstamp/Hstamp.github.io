@@ -1,0 +1,21 @@
+Top 20 words from speech 78: 
+Second: 46 
+great: 44 
+House: 35 
+(Cheers.): 32 
+Chamber: 28 
+policy: 20 
+believe: 17 
+tariff: 15 
+(laughter): 14 
+country: 13 
+Commons: 12 
+people: 12 
+Government: 12 
+whole: 12 
+Chamber,: 12 
+against: 11 
+price: 11 
+desire: 10 
+increase: 10 
+parties: 10 

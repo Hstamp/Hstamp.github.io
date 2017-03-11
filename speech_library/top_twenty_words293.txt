@@ -1,0 +1,21 @@
+Top 20 words from speech 293: 
+Rights: 47 
+Human: 44 
+British: 28 
+Act: 28 
+rights: 26 
+security: 24 
+right: 17 
+case: 17 
+protect: 16 
+European: 14 
+against: 14 
+crime: 13 
+Bill: 12 
+fight: 11 
+public: 10 
+set: 10 
+freedom: 10 
+country: 9 
+ECHR: 9 
+civil: 8 

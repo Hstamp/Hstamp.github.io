@@ -1,0 +1,21 @@
+Top 20 words from speech 229: 
+Liberal: 23 
+people: 14 
+Democrats: 12 
+Conservatives: 11 
+join: 10 
+real: 10 
+Rosemary: 9 
+local: 8 
+pay: 8 
+Conservative: 8 
+spending: 7 
+tax: 7 
+fighting: 7 
+election: 6 
+parties: 6 
+children: 6 
+funding: 6 
+education: 6 
+matter: 5 
+Vetterlein: 5 

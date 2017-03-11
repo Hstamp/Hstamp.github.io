@@ -1,0 +1,21 @@
+Top 20 words from speech 302: 
+British: 10 
+law: 6 
+right: 5 
+programme: 4 
+first: 4 
+above: 3 
+determined: 3 
+rights: 3 
+criminal: 3 
+Rights: 3 
+well: 3 
+politics,: 3 
+crime: 3 
+Human: 3 
+duty: 3 
+means: 3 
+communities: 3 
+justice,: 3 
+Jacqui: 3 
+people: 3 

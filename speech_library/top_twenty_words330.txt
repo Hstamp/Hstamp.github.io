@@ -1,0 +1,21 @@
+Top 20 words from speech 330: 
+people: 16 
+extremism: 8 
+democracy: 7 
+Prime: 7 
+rights: 6 
+moderation: 6 
+real: 6 
+Global: 5 
+British: 5 
+clear: 5 
+Islamist: 5 
+Minister,: 5 
+Movement: 5 
+religion: 4 
+young: 4 
+today,: 4 
+defeat: 4 
+democratic: 4 
+Islam: 4 
+citizenship: 4 

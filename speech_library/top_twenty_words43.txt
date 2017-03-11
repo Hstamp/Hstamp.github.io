@@ -1,0 +1,21 @@
+Top 20 words from speech 43: 
+people: 18 
+British: 14 
+Britain: 12 
+new: 11 
+Labour: 10 
+Government: 9 
+government: 9 
+unemployment: 8 
+Alliance: 8 
+real: 8 
+young: 8 
+Tories: 8 
+world: 7 
+alternative: 7 
+tax: 7 
+nuclear: 7 
+work: 6 
+provide: 6 
+order: 6 
+Liberal: 6 

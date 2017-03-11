@@ -1,0 +1,21 @@
+Top 20 words from speech 147: 
+people: 17 
+public: 14 
+own: 13 
+terrorists: 10 
+America: 9 
+services: 8 
+British: 8 
+against: 7 
+lives: 7 
+means: 7 
+country: 6 
+life: 6 
+first: 6 
+Britain: 6 
+live: 5 
+place: 5 
+world: 5 
+stand: 5 
+health: 5 
+armed: 5 

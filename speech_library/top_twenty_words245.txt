@@ -1,0 +1,21 @@
+Top 20 words from speech 245: 
+vote: 30 
+people: 15 
+Liberal: 13 
+Democrat: 11 
+country: 9 
+Government: 9 
+British: 8 
+chance: 8 
+great: 6 
+clear: 6 
+Britain: 6 
+tax: 5 
+Labour: 5 
+system: 5 
+Prime: 5 
+Democrats: 4 
+Minister: 4 
+stop: 4 
+new: 4 
+politics,: 4 

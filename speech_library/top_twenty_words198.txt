@@ -1,0 +1,21 @@
+Top 20 words from speech 198: 
+people: 41 
+government: 41 
+British: 14 
+Labour: 14 
+(Applause): 13 
+believe: 13 
+new: 12 
+active: 12 
+Britain: 12 
+social: 11 
+good: 11 
+economic: 11 
+work: 10 
+European: 10 
+election: 10 
+real: 9 
+responsibility: 9 
+society: 9 
+country: 8 
+working: 8 

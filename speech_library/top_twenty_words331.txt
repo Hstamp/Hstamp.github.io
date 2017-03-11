@@ -1,0 +1,21 @@
+Top 20 words from speech 331: 
+faith: 7 
+Holiness,: 6 
+Cardinal: 4 
+common: 4 
+social: 3 
+working: 3 
+Birmingham: 3 
+share: 3 
+British: 3 
+Holy: 3 
+message: 3 
+part: 3 
+country: 3 
+new: 3 
+politics,: 3 
+good: 3 
+education: 3 
+poor: 3 
+co-operation: 2 
+religious: 2 

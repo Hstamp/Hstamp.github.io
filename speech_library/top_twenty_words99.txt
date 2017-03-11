@@ -1,0 +1,21 @@
+Top 20 words from speech 99: 
+British: 4 
+Churchill: 4 
+politics,: 3 
+Russia: 2 
+Europe: 2 
+british: 2 
+Empire;: 1 
+However,: 1 
+ga.type: 1 
+policy,: 1 
+United: 1 
+cameron: 1 
+fear: 1 
+content="british: 1 
+intersection: 1 
+"Rhetoric: 1 
+copyright: 1 
+<ul><li: 1 
+world;: 1 
+src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js": 1 

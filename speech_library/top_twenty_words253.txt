@@ -1,0 +1,21 @@
+Top 20 words from speech 253: 
+individual: 16 
+new: 15 
+self-reliant: 14 
+society: 13 
+people: 12 
+Liberal: 9 
+right: 9 
+power: 9 
+public: 9 
+social: 9 
+change: 8 
+market: 8 
+community: 8 
+own: 8 
+Britain: 8 
+politics: 7 
+British: 7 
+education: 7 
+changed: 6 
+better: 6 

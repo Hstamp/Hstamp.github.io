@@ -1,0 +1,21 @@
+Top 20 words from speech 342: 
+EU: 10 
+country: 7 
+British: 6 
+national: 6 
+Conservative: 6 
+Government: 6 
+own: 6 
+European: 5 
+people: 5 
+treaty: 5 
+global: 4 
+face: 4 
+foreign: 4 
+power: 4 
+referendum: 4 
+leaders: 3 
+today: 3 
+responsibilities: 3 
+world,: 3 
+good: 3 

@@ -1,0 +1,21 @@
+Top 20 words from speech 353: 
+people: 57 
+Britain: 41 
+better: 31 
+race: 30 
+win: 25 
+government: 23 
+Labour: 23 
+young: 18 
+country: 17 
+right: 16 
+working: 16 
+country.: 15 
+change: 15 
+top: 13 
+work: 12 
+office: 12 
+voices: 12 
+David: 12 
+government.: 11 
+against: 10 

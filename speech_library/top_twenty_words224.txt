@@ -1,0 +1,21 @@
+Top 20 words from speech 224: 
+people: 19 
+focus: 7 
+British: 6 
+public: 4 
+work: 4 
+values: 4 
+believe: 4 
+government: 4 
+election: 4 
+issues: 3 
+investment: 3 
+third: 3 
+expect: 3 
+services: 3 
+learnt: 3 
+politics,: 3 
+whatever: 3 
+well: 3 
+government,: 2 
+today,: 2 

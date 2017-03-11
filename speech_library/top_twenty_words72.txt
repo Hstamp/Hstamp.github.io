@@ -1,0 +1,21 @@
+Top 20 words from speech 72: 
+Russian: 33 
+great: 17 
+neutrals: 14 
+fleet: 13 
+Government: 11 
+North: 9 
+circumstances: 8 
+war: 8 
+place: 8 
+world: 8 
+Admiral: 8 
+Japanese: 7 
+civilised: 7 
+duty: 7 
+tragedy: 7 
+fishing: 7 
+British: 7 
+Dogger: 6 
+gentlemen,: 6 
+incidents: 6 

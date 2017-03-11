@@ -1,0 +1,21 @@
+Top 20 words from speech 259: 
+Labour: 29 
+parties: 18 
+people: 17 
+system: 17 
+vote: 16 
+PR: 16 
+voting: 13 
+Conservative: 12 
+British: 12 
+power: 11 
+votes: 10 
+rather: 10 
+Liberal: 9 
+change: 9 
+Past: 9 
+First: 8 
+current: 8 
+representation: 8 
+politics: 8 
+majority: 8 

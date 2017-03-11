@@ -1,0 +1,21 @@
+Top 20 words from speech 351: 
+economy: 20 
+economic: 18 
+new: 14 
+businesses: 11 
+growth: 11 
+people: 10 
+power: 9 
+tax: 9 
+British: 9 
+enterprise: 8 
+first: 8 
+help: 8 
+strategy: 8 
+business: 8 
+government: 8 
+global: 7 
+deficit: 7 
+country: 7 
+world: 6 
+part: 6 

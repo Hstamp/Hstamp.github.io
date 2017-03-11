@@ -1,0 +1,21 @@
+Top 20 words from speech 312: 
+people: 40 
+right: 24 
+new: 23 
+values: 23 
+believe: 17 
+country: 16 
+change: 15 
+British: 15 
+wrong: 13 
+economy: 13 
+Britain: 13 
+work: 12 
+bargain: 10 
+young: 10 
+government: 10 
+trust.</p>: 9 
+tough: 9 
+Government: 9 
+great: 9 
+Labour: 9 

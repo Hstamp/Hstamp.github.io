@@ -1,0 +1,21 @@
+Top 20 words from speech 134: 
+people: 19 
+President,: 16 
+new: 14 
+Government: 14 
+Conservative: 12 
+great: 12 
+British: 11 
+Britain: 10 
+against: 9 
+Europe: 9 
+less: 9 
+Labour: 9 
+work: 8 
+European: 8 
+country: 8 
+right: 8 
+economic: 7 
+world: 7 
+help: 7 
+Madam: 7 

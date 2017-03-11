@@ -1,0 +1,21 @@
+Top 20 words from speech 281: 
+world: 24 
+people: 21 
+international: 12 
+values: 12 
+September: 9 
+believe: 9 
+US: 9 
+America: 8 
+against: 6 
+President: 6 
+part: 6 
+British: 6 
+terrorism: 6 
+new: 5 
+work: 5 
+countries: 5 
+security: 5 
+regime: 5 
+together: 5 
+thank: 5 

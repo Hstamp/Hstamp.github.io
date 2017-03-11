@@ -1,0 +1,21 @@
+Top 20 words from speech 79: 
+(Cheers.): 22 
+House: 22 
+Government: 17 
+great: 16 
+new: 15 
+British: 15 
+Home: 14 
+country: 14 
+gentlemen,: 13 
+(laughter): 12 
+people: 12 
+ladies: 11 
+Rule: 10 
+old: 9 
+whole: 9 
+Commons: 9 
+own: 9 
+election: 8 
+change: 8 
+least: 8 

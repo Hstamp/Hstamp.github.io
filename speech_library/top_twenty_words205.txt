@@ -1,0 +1,21 @@
+Top 20 words from speech 205: 
+people: 25 
+new: 23 
+forces: 23 
+Tory: 17 
+Britain: 17 
+Labour: 15 
+potential: 14 
+British: 14 
+economic: 13 
+child: 12 
+set: 12 
+century: 11 
+old: 11 
+conservatism: 11 
+million: 9 
+New: 9 
+social: 9 
+NHS: 9 
+country: 8 
+society: 8 

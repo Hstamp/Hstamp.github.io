@@ -1,0 +1,21 @@
+Top 20 words from speech 107: 
+people: 22 
+great: 17 
+world: 15 
+new: 13 
+Socialist: 12 
+duty: 12 
+course,: 12 
+believe: 11 
+own: 11 
+well: 11 
+good: 10 
+nuclear: 10 
+money: 9 
+Conservative: 9 
+individual: 9 
+modern: 8 
+policy: 8 
+real: 8 
+power: 8 
+long: 8 

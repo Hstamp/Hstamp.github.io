@@ -1,0 +1,21 @@
+Top 20 words from speech 29: 
+land: 34 
+country: 31 
+work: 28 
+great: 20 
+population: 19 
+Government: 17 
+present: 16 
+men: 15 
+number: 12 
+national: 12 
+millions: 11 
+industry: 11 
+State: 11 
+means: 11 
+employment: 11 
+soil.: 10 
+country.: 10 
+proposals: 10 
+million: 10 
+large: 10 

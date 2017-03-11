@@ -1,0 +1,21 @@
+Top 20 words from speech 11: 
+country: 18 
+Government: 17 
+Chamberlain: 14 
+House: 14 
+policy: 13 
+Bill: 13 
+trade: 10 
+Balfour: 9 
+Canadian: 9 
+Minister: 9 
+man: 9 
+good: 9 
+great: 9 
+policy?: 8 
+public: 8 
+question: 8 
+Campbell-Bannerman: 8 
+own: 8 
+power: 7 
+fiscal: 7 

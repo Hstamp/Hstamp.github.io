@@ -1,0 +1,21 @@
+Top 20 words from speech 14: 
+land: 44 
+tax: 20 
+taxes: 18 
+first: 13 
+value: 13 
+Budget: 12 
+land,: 11 
+great: 11 
+agricultural: 11 
+increment: 9 
+country: 9 
+social: 9 
+Lord: 8 
+income: 8 
+House: 7 
+Land: 7 
+hope: 7 
+own: 7 
+answer: 6 
+undeveloped: 6 

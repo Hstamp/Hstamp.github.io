@@ -1,0 +1,21 @@
+Top 20 words from speech 340: 
+children: 34 
+child: 17 
+people: 16 
+young: 13 
+life: 12 
+Children's: 10 
+family: 10 
+National: 9 
+social: 9 
+help: 9 
+abuse: 9 
+new: 8 
+home: 7 
+million: 6 
+training: 6 
+Dr.: 6 
+Government: 6 
+needs: 6 
+problems: 6 
+great: 6 

@@ -1,0 +1,21 @@
+Top 20 words from speech 279: 
+new: 29 
+international: 24 
+world: 16 
+economic: 14 
+financial: 12 
+own: 11 
+global: 10 
+believe: 10 
+Kosovo: 9 
+British: 9 
+Government: 8 
+military: 7 
+work: 7 
+first: 7 
+great: 7 
+Chicago: 6 
+President: 6 
+right: 6 
+Russia: 6 
+power: 6 

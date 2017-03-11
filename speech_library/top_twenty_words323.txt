@@ -1,0 +1,21 @@
+Top 20 words from speech 323: 
+people: 43 
+One: 43 
+Britain: 35 
+country: 32 
+Labour: 27 
+Nation: 25 
+country.: 17 
+British: 16 
+work: 15 
+believe: 15 
+government: 14 
+remember: 12 
+whole: 11 
+young: 11 
+tax: 10 
+NHS: 10 
+economy: 9 
+succeeded: 9 
+vision: 9 
+Nation.: 9 

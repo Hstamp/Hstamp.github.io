@@ -1,0 +1,21 @@
+Top 20 words from speech 131: 
+Labour: 21 
+people: 16 
+Britain: 13 
+country: 8 
+teachers: 8 
+power: 8 
+strike: 7 
+police: 7 
+Government: 7 
+new: 6 
+working: 6 
+inflation: 6 
+social: 6 
+Conference: 6 
+whole: 6 
+British: 6 
+education: 6 
+voted: 5 
+better: 5 
+heard: 5 

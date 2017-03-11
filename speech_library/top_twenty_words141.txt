@@ -1,0 +1,21 @@
+Top 20 words from speech 141: 
+people: 19 
+Labour: 16 
+Chairman,: 13 
+choice: 11 
+believe: 11 
+new: 10 
+welfare: 10 
+schools: 9 
+mean: 9 
+children: 9 
+public: 9 
+Britain: 9 
+Europe.: 8 
+country: 7 
+against: 7 
+first: 7 
+pay: 7 
+stand: 7 
+help: 7 
+taxes: 7 

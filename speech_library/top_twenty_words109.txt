@@ -1,0 +1,21 @@
+Top 20 words from speech 109: 
+great: 21 
+new: 19 
+people: 19 
+world.: 14 
+Conservative: 12 
+good: 12 
+Commonwealth: 12 
+British: 12 
+countries: 11 
+world: 11 
+national: 11 
+balance: 9 
+Foreign: 9 
+course,: 9 
+well: 9 
+own: 9 
+United: 8 
+Government: 8 
+State: 8 
+better: 7 

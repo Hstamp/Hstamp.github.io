@@ -1,0 +1,21 @@
+Top 20 words from speech 269: 
+Britain: 33 
+new: 29 
+first: 22 
+(Applause): 21 
+Labour: 19 
+people: 18 
+government: 14 
+long-term: 13 
+economic: 10 
+country.: 9 
+world: 9 
+New: 8 
+work: 7 
+journey: 7 
+billion: 7 
+global: 7 
+today: 7 
+minimum: 7 
+jobs,: 7 
+challenge: 7 

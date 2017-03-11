@@ -1,0 +1,21 @@
+Top 20 words from speech 69: 
+great: 12 
+London: 10 
+social: 7 
+Salisbury: 6 
+kind: 5 
+Conservative: 5 
+Lord: 4 
+British: 4 
+remember: 4 
+issue: 4 
+state: 4 
+present: 4 
+vast: 3 
+change: 3 
+working: 3 
+December: 3 
+allow: 3 
+first: 3 
+Liberal: 3 
+victory: 3 

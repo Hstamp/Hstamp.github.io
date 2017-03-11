@@ -1,0 +1,21 @@
+Top 20 words from speech 59: 
+people: 12 
+public: 12 
+international: 11 
+Liberal: 8 
+clear: 7 
+against: 6 
+first: 6 
+effective: 5 
+civil: 5 
+local: 5 
+believe: 5 
+British: 5 
+spoke: 4 
+work: 4 
+mean: 4 
+class: 4 
+remember: 4 
+conference.</p>: 4 
+message: 4 
+home.</p>: 4 

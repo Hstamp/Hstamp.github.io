@@ -1,0 +1,21 @@
+Top 20 words from speech 77: 
+(Cheers.): 40 
+country: 34 
+great: 32 
+industry: 26 
+land: 25 
+Budget: 23 
+part: 16 
+cotton: 16 
+House: 15 
+Free: 14 
+man: 12 
+Lancashire: 12 
+people: 11 
+mean: 10 
+country.: 10 
+country,: 10 
+power: 10 
+fiscal: 10 
+kind: 10 
+duties: 9 

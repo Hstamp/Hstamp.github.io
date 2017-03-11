@@ -1,0 +1,21 @@
+Top 20 words from speech 203: 
+people: 25 
+British: 23 
+Britain: 23 
+country: 22 
+new: 19 
+Labour: 18 
+Government: 15 
+hard: 13 
+world: 11 
+money: 10 
+place: 9 
+first: 9 
+New: 9 
+better: 8 
+schools: 8 
+means: 8 
+Tory: 8 
+beacon: 8 
+people.: 8 
+Tories: 8 

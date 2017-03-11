@@ -1,0 +1,21 @@
+Top 20 words from speech 236: 
+Liberal: 19 
+vote: 16 
+Scottish: 16 
+Democrats: 12 
+Government: 12 
+Labour: 12 
+new: 11 
+people: 11 
+Scotland: 11 
+tax: 11 
+Welsh: 9 
+power: 9 
+Britain: 9 
+Parliament: 8 
+local: 8 
+work: 7 
+different: 7 
+May: 7 
+fighting: 7 
+own: 7 

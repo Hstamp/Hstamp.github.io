@@ -1,0 +1,21 @@
+Top 20 words from speech 144: 
+British: 58 
+people: 37 
+Conservative: 27 
+Labour: 25 
+Government: 24 
+Britain: 16 
+new: 15 
+New: 15 
+people.: 13 
+work: 12 
+public: 12 
+Way: 12 
+country: 11 
+right: 11 
+election: 11 
+believe: 11 
+election,: 11 
+welfare: 10 
+Prime: 10 
+local: 10 

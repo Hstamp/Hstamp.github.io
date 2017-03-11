@@ -1,0 +1,21 @@
+Top 20 words from speech 190: 
+power: 23 
+country: 16 
+people: 14 
+government: 14 
+economic: 10 
+dispute: 9 
+violence: 9 
+action: 9 
+condemn: 9 
+coal: 9 
+trade: 8 
+year,: 7 
+jobs: 7 
+case: 7 
+(Applause): 7 
+people.: 7 
+great: 7 
+new: 6 
+work: 6 
+provide: 6 

@@ -1,0 +1,21 @@
+Top 20 words from speech 101: 
+politics,: 4 
+Churchill: 4 
+British: 3 
+government: 2 
+british: 2 
+action: 2 
+called: 1 
+Conservative: 1 
+ga.type: 1 
+Conditions</a>: 1 
+cameron: 1 
+content="british: 1 
+<p><a: 1 
+European: 1 
+"Rhetoric: 1 
+copyright: 1 
+<ul><li: 1 
+300,000: 1 
+src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js": 1 
+class="jumptocontent">Jump: 1 

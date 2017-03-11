@@ -1,0 +1,21 @@
+Top 20 words from speech 230: 
+welfare: 25 
+state: 16 
+new: 15 
+people: 15 
+social: 15 
+system: 14 
+provision: 10 
+public: 10 
+poor: 7 
+private: 7 
+personal: 6 
+real: 6 
+less: 6 
+work: 5 
+better: 5 
+life: 5 
+contract: 5 
+welfare,: 5 
+simply: 5 
+British: 5 

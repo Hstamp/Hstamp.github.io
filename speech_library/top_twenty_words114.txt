@@ -1,0 +1,21 @@
+Top 20 words from speech 114: 
+Government: 31 
+country: 23 
+people: 23 
+Conservative: 16 
+policies: 13 
+British: 13 
+own: 13 
+believe: 11 
+Labour: 11 
+local: 10 
+respect: 9 
+freedom: 9 
+House: 8 
+trade: 8 
+above: 7 
+order: 7 
+today: 7 
+fellow: 7 
+great: 7 
+achieve: 7 

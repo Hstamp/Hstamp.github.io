@@ -1,0 +1,21 @@
+Top 20 words from speech 6: 
+Government: 44 
+foreign: 27 
+Liberal: 26 
+great: 24 
+policy: 18 
+good: 16 
+Egypt: 13 
+expedition: 12 
+present: 12 
+people: 11 
+House: 11 
+Government,: 11 
+Irish: 11 
+country: 10 
+first: 10 
+Federation: 10 
+feel: 9 
+nothing: 9 
+word: 8 
+National: 8 

@@ -1,0 +1,21 @@
+Top 20 words from speech 273: 
+public: 38 
+new: 15 
+long: 15 
+Labour: 15 
+NHS: 14 
+British: 14 
+people: 13 
+great: 13 
+service: 12 
+first: 11 
+hospitals: 11 
+health: 11 
+Britain: 11 
+economic: 10 
+high: 10 
+schools: 9 
+debt: 9 
+country: 9 
+child: 9 
+term: 9 

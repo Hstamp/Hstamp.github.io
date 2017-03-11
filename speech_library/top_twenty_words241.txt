@@ -1,0 +1,21 @@
+Top 20 words from speech 241: 
+NHS: 20 
+Liberal: 13 
+Labour: 11 
+Health: 10 
+goodbye: 8 
+National: 8 
+people: 8 
+Tory: 8 
+Democrats: 8 
+doctors: 8 
+new: 7 
+<p>Vote: 7 
+dental: 7 
+waiting: 7 
+free: 6 
+extra: 6 
+enough: 6 
+eye: 6 
+patient: 6 
+nothing: 6 

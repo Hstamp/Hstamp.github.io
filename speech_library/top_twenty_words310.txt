@@ -1,0 +1,21 @@
+Top 20 words from speech 310: 
+state: 10 
+contract: 10 
+right: 9 
+welfare: 8 
+citizen: 7 
+service: 6 
+work: 5 
+responsibilities: 5 
+decade,: 4 
+deliver: 4 
+success: 4 
+people: 4 
+social: 3 
+successful: 3 
+providers: 3 
+sense: 3 
+state.: 3 
+British: 3 
+maintain: 3 
+provision: 3 

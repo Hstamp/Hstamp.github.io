@@ -1,0 +1,21 @@
+Top 20 words from speech 75: 
+great: 65 
+present: 21 
+social: 18 
+(Cheers.): 16 
+fiscal: 16 
+reform: 16 
+country: 14 
+whole: 14 
+first: 12 
+(Applause.): 12 
+Unionist: 12 
+(laughter): 11 
+gentlemen,: 11 
+point: 11 
+commercial: 11 
+carry: 10 
+public: 10 
+nothing: 10 
+British: 10 
+system: 10 

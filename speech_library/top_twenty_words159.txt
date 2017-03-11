@@ -1,0 +1,21 @@
+Top 20 words from speech 159: 
+great: 21 
+work: 18 
+past: 10 
+country: 10 
+policy: 10 
+people: 9 
+Government: 8 
+programme: 7 
+economic: 7 
+members: 6 
+years.: 6 
+right: 6 
+Governments: 5 
+particular: 5 
+National: 5 
+conditions: 5 
+task: 5 
+carried: 5 
+loyal: 5 
+full: 4 

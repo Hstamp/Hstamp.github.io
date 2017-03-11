@@ -1,0 +1,21 @@
+Top 20 words from speech 356: 
+people: 42 
+country: 26 
+proud: 23 
+Britain: 21 
+tax: 17 
+Conservative: 16 
+everyone: 14 
+call: 12 
+work: 12 
+children: 12 
+million: 11 
+British: 11 
+new: 9 
+life: 9 
+Labour: 9 
+first: 8 
+plan: 8 
+young: 8 
+NHS: 8 
+own: 8 

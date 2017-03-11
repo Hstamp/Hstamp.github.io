@@ -1,0 +1,21 @@
+Top 20 words from speech 177: 
+Labour: 34 
+Government: 24 
+new: 20 
+(Applause): 18 
+people: 17 
+Parliament: 17 
+Conference: 16 
+Members: 14 
+National: 13 
+against: 12 
+Executive: 12 
+Parliamentary: 12 
+agreement: 12 
+trade: 11 
+own: 11 
+Committee: 10 
+problems: 10 
+General: 10 
+international: 9 
+part: 9 

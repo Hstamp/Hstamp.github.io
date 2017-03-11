@@ -1,0 +1,21 @@
+Top 20 words from speech 17: 
+Irish: 20 
+Home: 16 
+expenditure: 14 
+General: 13 
+Liberal: 12 
+Parliament: 12 
+great: 12 
+country: 11 
+House: 11 
+Bill: 11 
+British: 11 
+Ireland: 10 
+first: 10 
+Rule: 9 
+civil: 9 
+Imperial: 9 
+policy: 8 
+Government: 8 
+possible: 7 
+majority: 7 

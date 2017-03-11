@@ -1,0 +1,21 @@
+Top 20 words from speech 132: 
+people: 24 
+Labour: 22 
+nuclear: 16 
+Britain: 16 
+new: 14 
+British: 11 
+defence: 10 
+country: 10 
+policy: 9 
+jobs: 9 
+policies: 9 
+great: 8 
+present: 8 
+government: 8 
+hospital: 7 
+care: 7 
+service: 7 
+believe: 7 
+years.: 7 
+voted: 6 
