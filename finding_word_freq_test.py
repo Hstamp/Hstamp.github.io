@@ -1,7 +1,7 @@
 import collections
 import os
 
-os.chdir("C:\Users\Charis\Documents\GitHub\Hstamp.github.io\speech_library")
+os.chdir("C:\Users\H Stamp\Documents\GitHub\Hstamp.github.io\speech_library")
 
 speech_number = 364
 
@@ -18,13 +18,12 @@ while speech_number >= 1:
             del wordcount[word] #if "a" in wordcount:
         #del wordcount["a"]
 
-    with open("top_twenty_words%s.txt" % speech_number, "w" ) as f:
-        f.write("Top 20 words from speech %s: \n" % speech_number)
-        for letter, count in wordcount.most_common(20): #showing top 20 words
+    with open("top_twenty_words.txt", "a+") as f:   # 'a' appends to a file without overwriting lines, '+' creates the file if it doesn't exist
+    #need to delete the top_twenty_words.txt file each time before running, otherwise each time you run it you'll add more to the file
+        f.write("Top 10 words from speech %s: \n" % str(speech_number))
+        for letter, count in wordcount.most_common(10): #showing top 10 words
             f.write("%s: %d \n" % (letter, count))
+        f.write("\n")  #new line after each speech
 
-    #with open("strip_brexit_speech.txt", "w") as f:
-    #    f.write(text.encode('utf-8'))
     speech_file.close()
     speech_number -= 1
-
