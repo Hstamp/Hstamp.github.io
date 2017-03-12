@@ -1,0 +1,4368 @@
+Top 10 words from speech 364: 
+people: 39 
+country: 31 
+government: 24 
+new: 23 
+everyone: 21 
+works: 21 
+Britain: 21 
+good: 20 
+economy: 19 
+change: 18 
+
+Top 10 words from speech 363: 
+Labour: 49 
+people: 25 
+government: 23 
+new: 18 
+country: 18 
+work: 13 
+public: 12 
+support: 10 
+economy: 10 
+investment: 10 
+
+Top 10 words from speech 362: 
+people: 40 
+country: 18 
+Britain: 18 
+Liberal: 17 
+Labour: 13 
+Brexit: 12 
+proud: 11 
+Democrats: 11 
+British: 11 
+needs: 10 
+
+Top 10 words from speech 361: 
+Britain: 25 
+Liberal: 23 
+people: 21 
+Democrats: 14 
+proud: 12 
+liberal: 9 
+place: 9 
+power: 9 
+economy: 8 
+feel: 8 
+
+Top 10 words from speech 360: 
+people: 41 
+country: 24 
+Britain: 24 
+children: 21 
+new: 17 
+British: 17 
+Conservative: 16 
+social: 15 
+mean: 13 
+greater: 13 
+
+Top 10 words from speech 359: 
+people: 63 
+Labour: 34 
+new: 29 
+security: 16 
+work: 14 
+thank: 14 
+leadership: 14 
+great: 12 
+British: 12 
+rights: 11 
+
+Top 10 words from speech 358: 
+international: 5 
+first: 4 
+military: 3 
+British: 3 
+facing: 3 
+politics,: 3 
+against: 3 
+response</p>: 3 
+United: 3 
+civil: 3 
+
+Top 10 words from speech 357: 
+people: 40 
+tax: 18 
+Liberal: 14 
+cut: 14 
+British: 14 
+opportunity: 13 
+single: 12 
+Government: 11 
+politics: 11 
+children: 11 
+
+Top 10 words from speech 356: 
+people: 42 
+country: 26 
+proud: 23 
+Britain: 21 
+tax: 17 
+Conservative: 16 
+everyone: 14 
+call: 12 
+work: 12 
+children: 12 
+
+Top 10 words from speech 355: 
+people: 38 
+country: 19 
+plan: 18 
+working: 17 
+future: 17 
+Britain: 16 
+national: 15 
+care: 14 
+government: 13 
+better: 12 
+
+Top 10 words from speech 354: 
+people: 46 
+job: 23 
+children: 20 
+own: 16 
+land: 15 
+country: 15 
+new: 13 
+British: 13 
+work: 12 
+Labour: 12 
+
+Top 10 words from speech 353: 
+people: 57 
+Britain: 41 
+better: 31 
+race: 30 
+win: 25 
+government: 23 
+Labour: 23 
+young: 18 
+country: 17 
+right: 16 
+
+Top 10 words from speech 352: 
+Government: 25 
+Liberal: 23 
+people: 23 
+Democrats: 18 
+Labour: 17 
+Britain: 14 
+British: 13 
+first: 12 
+children: 12 
+new: 9 
+
+Top 10 words from speech 351: 
+economy: 20 
+economic: 18 
+new: 14 
+businesses: 11 
+growth: 11 
+people: 10 
+power: 9 
+tax: 9 
+British: 9 
+enterprise: 8 
+
+Top 10 words from speech 350: 
+people: 50 
+benefits: 26 
+welfare: 24 
+work: 23 
+system: 23 
+living: 20 
+right: 16 
+benefit: 14 
+state: 12 
+housing: 12 
+
+Top 10 words from speech 349: 
+Conservative: 17 
+Gordon: 12 
+government: 12 
+Brown: 11 
+believe: 11 
+local: 11 
+trust: 11 
+social: 10 
+tax: 10 
+people: 10 
+
+Top 10 words from speech 348: 
+social: 20 
+knife: 11 
+broken: 11 
+society: 9 
+crime: 9 
+people: 9 
+Glasgow: 7 
+repair: 7 
+responsibility: 6 
+clear: 6 
+
+Top 10 words from speech 347: 
+Britain: 16 
+world: 15 
+countries: 14 
+new: 13 
+country: 13 
+British: 13 
+people: 11 
+national: 11 
+work: 8 
+first: 8 
+
+Top 10 words from speech 346: 
+British: 9 
+European: 8 
+diplomatic: 7 
+country: 7 
+world: 7 
+people: 7 
+own: 7 
+Foreign: 6 
+first: 6 
+government: 6 
+
+Top 10 words from speech 345: 
+British: 14 
+country: 11 
+foreign: 9 
+Government: 9 
+work: 7 
+people: 7 
+Europe: 6 
+means: 6 
+great: 6 
+own: 6 
+
+Top 10 words from speech 344: 
+British: 12 
+foreign: 8 
+own: 7 
+people: 6 
+development: 5 
+national: 5 
+new: 5 
+government: 5 
+world: 5 
+support: 5 
+
+Top 10 words from speech 343: 
+people: 15 
+nations: 10 
+Conservative: 6 
+global: 5 
+Europe: 5 
+vote: 5 
+call: 5 
+British: 5 
+new: 5 
+nuclear: 5 
+
+Top 10 words from speech 342: 
+EU: 10 
+country: 7 
+British: 6 
+national: 6 
+Conservative: 6 
+Government: 6 
+own: 6 
+European: 5 
+people: 5 
+treaty: 5 
+
+Top 10 words from speech 341: 
+Europe: 8 
+British: 8 
+European: 7 
+rights: 6 
+new: 6 
+means: 5 
+nations: 5 
+people: 5 
+human: 4 
+understand: 4 
+
+Top 10 words from speech 340: 
+children: 34 
+child: 17 
+people: 16 
+young: 13 
+life: 12 
+Children's: 10 
+family: 10 
+National: 9 
+social: 9 
+help: 9 
+
+Top 10 words from speech 339: 
+social: 8 
+Church: 8 
+own: 8 
+spiritual: 6 
+Christian: 6 
+life: 6 
+work: 5 
+believe: 5 
+country: 5 
+Scotland: 5 
+
+Top 10 words from speech 338: 
+nation: 24 
+Christian: 13 
+people: 12 
+life: 11 
+national: 11 
+moral: 9 
+own: 8 
+public: 7 
+sense: 7 
+believe: 7 
+
+Top 10 words from speech 337: 
+people: 12 
+million: 11 
+children: 9 
+child: 8 
+world: 8 
+meet: 7 
+thank: 7 
+young: 6 
+religious: 6 
+men: 6 
+
+Top 10 words from speech 336: 
+global: 16 
+common: 11 
+faith: 11 
+world: 10 
+people: 10 
+first: 8 
+believe: 8 
+shared: 8 
+together: 7 
+moral: 6 
+
+Top 10 words from speech 335: 
+people: 14 
+world: 11 
+Church: 9 
+global: 7 
+moral: 7 
+believe: 7 
+justice: 7 
+power: 7 
+today: 6 
+society: 6 
+
+Top 10 words from speech 334: 
+world: 20 
+modern: 13 
+international: 13 
+community: 13 
+global: 12 
+values: 12 
+right: 10 
+new: 9 
+nations: 9 
+mutual: 8 
+
+Top 10 words from speech 333: 
+religious: 15 
+Muslim: 12 
+world: 11 
+Muslims: 10 
+Islam: 10 
+first: 9 
+true: 7 
+schools: 7 
+part: 6 
+education: 6 
+
+Top 10 words from speech 332: 
+support: 13 
+churches: 9 
+work: 9 
+social: 7 
+services: 7 
+faith: 7 
+poverty: 6 
+action: 6 
+British: 6 
+help: 6 
+
+Top 10 words from speech 331: 
+faith: 7 
+Holiness,: 6 
+Cardinal: 4 
+common: 4 
+social: 3 
+working: 3 
+Birmingham: 3 
+share: 3 
+British: 3 
+Holy: 3 
+
+Top 10 words from speech 330: 
+people: 16 
+extremism: 8 
+democracy: 7 
+Prime: 7 
+rights: 6 
+moderation: 6 
+real: 6 
+Global: 5 
+British: 5 
+clear: 5 
+
+Top 10 words from speech 329: 
+people: 13 
+believe: 11 
+terrorism: 10 
+Muslims: 10 
+young: 8 
+Islam: 8 
+confront: 6 
+Islamist: 6 
+ideology: 6 
+men: 5 
+
+Top 10 words from speech 328: 
+faith: 54 
+public: 35 
+religious: 33 
+politics: 33 
+right: 20 
+people: 18 
+moral: 15 
+liberal: 14 
+God: 13 
+debate: 13 
+
+Top 10 words from speech 327: 
+global: 27 
+people: 25 
+world: 20 
+financial: 14 
+rules: 12 
+markets: 12 
+values: 11 
+shared: 10 
+free: 8 
+today: 8 
+
+Top 10 words from speech 326: 
+Bible: 25 
+people: 19 
+faith: 15 
+James: 14 
+King: 13 
+stand: 12 
+language: 11 
+moral: 10 
+Christian: 10 
+values: 10 
+
+Top 10 words from speech 325: 
+change: 7 
+people: 7 
+Conservative: 6 
+government: 6 
+work: 4 
+British: 4 
+state,: 4 
+young: 3 
+free: 3 
+politics,: 3 
+
+Top 10 words from speech 324: 
+people: 50 
+Britain: 16 
+help: 15 
+country: 14 
+world: 14 
+children: 14 
+new: 13 
+work: 13 
+school: 11 
+Labour: 11 
+
+Top 10 words from speech 323: 
+people: 43 
+One: 43 
+Britain: 35 
+country: 32 
+Labour: 27 
+Nation: 25 
+country.: 17 
+British: 16 
+work: 15 
+believe: 15 
+
+Top 10 words from speech 322: 
+economy: 15 
+people: 14 
+Liberal: 10 
+new: 9 
+child: 9 
+economic: 9 
+tax: 9 
+money: 8 
+real: 8 
+tough: 7 
+
+Top 10 words from speech 321: 
+government: 20 
+Big: 17 
+local: 17 
+people: 17 
+Society: 11 
+social: 10 
+power: 8 
+help: 8 
+big: 8 
+public: 7 
+
+Top 10 words from speech 320: 
+Britain: 7 
+help: 6 
+Tory: 6 
+new: 6 
+government: 6 
+problems: 6 
+work: 5 
+values: 5 
+children: 4 
+Exclusion: 4 
+
+Top 10 words from speech 319: 
+British: 3 
+politics,: 3 
+british: 2 
+sorry,: 1 
+ga.type: 1 
+cameron: 1 
+content="british: 1 
+found.</h3>: 1 
+"Rhetoric: 1 
+<ul><li: 1 
+
+Top 10 words from speech 318: 
+young: 16 
+social: 13 
+people: 13 
+crime: 10 
+work: 8 
+sense: 7 
+youth: 7 
+behaviour: 6 
+quality: 6 
+right: 6 
+
+Top 10 words from speech 317: 
+British: 25 
+Britain: 10 
+national: 8 
+sense: 7 
+country: 7 
+liberty: 6 
+citizenship: 6 
+history: 5 
+people: 5 
+proud: 5 
+
+Top 10 words from speech 316: 
+British: 52 
+Britain: 38 
+people: 28 
+responsibility: 28 
+fairness: 23 
+liberty: 22 
+new: 19 
+local: 18 
+civic: 16 
+national: 16 
+
+Top 10 words from speech 315: 
+Conservative: 10 
+change: 9 
+public: 8 
+country: 8 
+means: 7 
+right: 7 
+challenge: 6 
+good: 6 
+believe: 5 
+social: 4 
+
+Top 10 words from speech 314: 
+people: 18 
+social: 13 
+government: 13 
+Britain: 13 
+great: 10 
+Labour: 10 
+first: 9 
+responsibility: 9 
+right: 8 
+Conservative: 8 
+
+Top 10 words from speech 313: 
+people: 43 
+country: 17 
+right: 17 
+economy: 17 
+new: 15 
+world: 13 
+help: 13 
+children: 11 
+everyone: 11 
+Labour: 11 
+
+Top 10 words from speech 312: 
+people: 40 
+right: 24 
+new: 23 
+values: 23 
+believe: 17 
+country: 16 
+change: 15 
+British: 15 
+wrong: 13 
+economy: 13 
+
+Top 10 words from speech 311: 
+people: 19 
+new: 13 
+economy: 13 
+Labour: 12 
+right: 10 
+Liberal: 9 
+Government: 9 
+easy,: 8 
+liberal: 8 
+young: 8 
+
+Top 10 words from speech 310: 
+state: 10 
+contract: 10 
+right: 9 
+welfare: 8 
+citizen: 7 
+service: 6 
+work: 5 
+responsibilities: 5 
+decade,: 4 
+deliver: 4 
+
+Top 10 words from speech 309: 
+people: 17 
+language: 15 
+skills: 11 
+work: 10 
+ethnic: 10 
+employment: 10 
+minorities: 8 
+labour: 8 
+welfare: 7 
+looking: 6 
+
+Top 10 words from speech 308: 
+New: 11 
+Deal: 8 
+employment: 7 
+new: 6 
+lone: 6 
+work: 5 
+local: 5 
+unemployment: 5 
+people: 5 
+unemployed: 4 
+
+Top 10 words from speech 307: 
+public: 53 
+services: 40 
+people: 36 
+new: 23 
+course: 19 
+frontline: 13 
+able: 11 
+rights: 10 
+social: 10 
+future: 10 
+
+Top 10 words from speech 306: 
+people: 22 
+Saddam: 13 
+Iraqi: 9 
+million: 8 
+Mass: 7 
+Iraq: 7 
+consequences: 7 
+Weapons: 7 
+reason: 6 
+threat: 5 
+
+Top 10 words from speech 305: 
+terrorism: 31 
+rights: 23 
+right: 21 
+Government: 15 
+international: 15 
+risk: 14 
+Convention: 14 
+UK: 14 
+new: 13 
+European: 13 
+
+Top 10 words from speech 304: 
+rights: 31 
+human: 27 
+public: 23 
+Human: 19 
+Rights: 15 
+culture: 11 
+authorities: 10 
+new: 9 
+people: 8 
+Act: 8 
+
+Top 10 words from speech 303: 
+rights: 45 
+human: 38 
+Human: 34 
+Rights: 34 
+Act: 28 
+against: 14 
+values: 13 
+Parliament: 13 
+democracy: 10 
+respect: 10 
+
+Top 10 words from speech 302: 
+British: 10 
+law: 6 
+right: 5 
+programme: 4 
+first: 4 
+above: 3 
+determined: 3 
+rights: 3 
+criminal: 3 
+Rights: 3 
+
+Top 10 words from speech 301: 
+rights: 35 
+British: 27 
+Rights: 26 
+Bill: 17 
+Act: 13 
+Human: 12 
+European: 10 
+people: 10 
+law: 9 
+human: 9 
+
+Top 10 words from speech 300: 
+rights: 43 
+human: 37 
+new: 15 
+public: 13 
+Human: 13 
+equality: 11 
+Rights: 10 
+legal: 9 
+rights.: 9 
+culture: 8 
+
+Top 10 words from speech 299: 
+rights: 96 
+Rights: 55 
+Human: 49 
+Act: 40 
+human: 36 
+Parliament: 31 
+public: 22 
+British: 21 
+right: 17 
+law: 16 
+
+Top 10 words from speech 298: 
+rights: 35 
+Human: 29 
+Act: 28 
+human: 26 
+public: 25 
+Rights: 25 
+values: 16 
+British: 11 
+freedoms: 9 
+review: 9 
+
+Top 10 words from speech 297: 
+rights: 63 
+Act: 46 
+human: 38 
+Human: 35 
+Rights: 32 
+legislation: 17 
+effect: 16 
+protection: 14 
+decision: 12 
+British: 12 
+
+Top 10 words from speech 296: 
+rights: 45 
+human: 40 
+public: 28 
+Human: 19 
+Rights: 16 
+culture: 13 
+people: 12 
+Act: 12 
+new: 10 
+Commission: 9 
+
+Top 10 words from speech 295: 
+rights: 18 
+human: 16 
+Commission: 10 
+Rights: 8 
+Human: 6 
+White: 5 
+Paper: 5 
+work: 4 
+key: 4 
+respect: 4 
+
+Top 10 words from speech 294: 
+rights: 48 
+human: 45 
+Human: 34 
+Act: 34 
+Rights: 28 
+people: 15 
+law: 12 
+right: 11 
+against: 10 
+new: 8 
+
+Top 10 words from speech 293: 
+Rights: 47 
+Human: 44 
+British: 28 
+Act: 28 
+rights: 26 
+security: 24 
+right: 17 
+case: 17 
+protect: 16 
+European: 14 
+
+Top 10 words from speech 292: 
+foreign: 15 
+Government: 12 
+Britain: 12 
+Labour: 11 
+British: 9 
+Statement: 8 
+Mission: 8 
+policy: 7 
+Commonwealth: 6 
+work: 6 
+
+Top 10 words from speech 291: 
+people: 35 
+support: 16 
+police: 14 
+local: 12 
+right: 12 
+criminal: 11 
+system: 11 
+well: 11 
+antisocial: 11 
+people,: 11 
+
+Top 10 words from speech 290: 
+people: 14 
+behaviour: 11 
+anti-social: 11 
+criminal: 9 
+young: 8 
+communities: 8 
+society: 8 
+respect: 8 
+court: 7 
+British: 7 
+
+Top 10 words from speech 289: 
+police: 9 
+communities: 7 
+against: 6 
+local: 5 
+crime: 4 
+new: 4 
+respect: 4 
+security: 4 
+people: 4 
+work: 3 
+
+Top 10 words from speech 288: 
+against: 6 
+British: 5 
+domestic: 5 
+Labour: 5 
+violence: 4 
+public: 4 
+<p>Voted: 4 
+record: 4 
+behaviour: 3 
+coming: 3 
+
+Top 10 words from speech 287: 
+people: 30 
+police: 25 
+crime: 24 
+antisocial: 23 
+public: 20 
+behaviour: 19 
+local: 19 
+tackle: 10 
+feel: 10 
+Home: 9 
+
+Top 10 words from speech 286: 
+police: 40 
+people: 38 
+new: 37 
+crime: 34 
+local: 28 
+neighbourhood: 18 
+policing: 16 
+support: 12 
+together: 12 
+crime,: 11 
+
+Top 10 words from speech 285: 
+British: 8 
+Europe: 6 
+freedom: 6 
+states: 5 
+first: 5 
+new: 5 
+threat: 4 
+America: 4 
+Congress,: 4 
+history: 4 
+
+Top 10 words from speech 284: 
+weapons: 11 
+Saddam: 8 
+people: 7 
+UN: 7 
+world: 6 
+threat: 5 
+action: 4 
+military: 4 
+British: 4 
+trade: 4 
+
+Top 10 words from speech 283: 
+children: 22 
+social: 17 
+poverty: 16 
+people: 14 
+problems: 13 
+early: 12 
+health: 12 
+child: 11 
+work: 9 
+families: 9 
+
+Top 10 words from speech 282: 
+threat: 21 
+Iraq: 20 
+UN: 19 
+September: 15 
+war: 11 
+Saddam: 10 
+act: 10 
+nuclear: 10 
+people: 9 
+international: 9 
+
+Top 10 words from speech 281: 
+world: 24 
+people: 21 
+international: 12 
+values: 12 
+September: 9 
+believe: 9 
+US: 9 
+America: 8 
+against: 6 
+President: 6 
+
+Top 10 words from speech 280: 
+faith: 22 
+voluntary: 12 
+work: 10 
+values: 10 
+local: 10 
+community: 10 
+new: 8 
+government: 7 
+partnership: 7 
+support: 7 
+
+Top 10 words from speech 279: 
+new: 29 
+international: 24 
+world: 16 
+economic: 14 
+financial: 12 
+own: 11 
+global: 10 
+believe: 10 
+Kosovo: 9 
+British: 9 
+
+Top 10 words from speech 278: 
+Labour: 26 
+government: 15 
+Tory: 12 
+new: 11 
+economic: 11 
+Britain: 11 
+public: 9 
+British: 9 
+national: 7 
+social: 5 
+
+Top 10 words from speech 277: 
+people: 35 
+new: 25 
+British: 19 
+Britain: 19 
+believe: 15 
+Labour: 14 
+values: 13 
+change: 12 
+young: 11 
+government: 11 
+
+Top 10 words from speech 276: 
+Britain: 27 
+Labour: 25 
+child: 21 
+British: 21 
+new: 20 
+first: 14 
+world: 13 
+public: 13 
+free: 12 
+people: 12 
+
+Top 10 words from speech 275: 
+Britain: 30 
+new: 23 
+people: 21 
+Labour: 21 
+British: 18 
+country: 16 
+build: 16 
+prosperity: 15 
+public: 13 
+progressive: 13 
+
+Top 10 words from speech 274: 
+Labour: 59 
+Britain: 27 
+health: 18 
+British: 18 
+people: 16 
+economic: 16 
+today: 15 
+care: 15 
+world: 15 
+million: 14 
+
+Top 10 words from speech 273: 
+public: 38 
+new: 15 
+long: 15 
+Labour: 15 
+NHS: 14 
+British: 14 
+people: 13 
+great: 13 
+service: 12 
+first: 11 
+
+Top 10 words from speech 272: 
+public: 25 
+new: 16 
+economic: 12 
+spending: 12 
+times: 12 
+international: 11 
+world: 9 
+ensure: 8 
+Britain: 8 
+interest: 7 
+
+Top 10 words from speech 271: 
+tax: 27 
+public: 22 
+new: 21 
+Britain: 18 
+people: 16 
+million: 16 
+term: 15 
+long: 15 
+Tory: 13 
+Labour: 13 
+
+Top 10 words from speech 270: 
+new: 28 
+Britain: 21 
+Labour: 18 
+first: 13 
+Great: 13 
+Tory: 12 
+values: 10 
+New: 10 
+opportunity: 9 
+long: 9 
+
+Top 10 words from speech 269: 
+Britain: 33 
+new: 29 
+first: 22 
+(Applause): 21 
+Labour: 19 
+people: 18 
+government: 14 
+long-term: 13 
+economic: 10 
+country.: 9 
+
+Top 10 words from speech 268: 
+government: 20 
+new: 19 
+Britain: 16 
+first: 12 
+opportunity: 12 
+people: 12 
+economy: 12 
+tax: 12 
+Labour: 10 
+country: 9 
+
+Top 10 words from speech 267: 
+Britain: 25 
+Labour: 23 
+tax: 21 
+people: 17 
+new: 14 
+opportunity: 13 
+public: 13 
+Tories: 13 
+British: 11 
+benefit: 10 
+
+Top 10 words from speech 266: 
+new: 28 
+Labour: 20 
+people: 17 
+government: 16 
+Britain: 15 
+tax: 14 
+economic: 12 
+work: 11 
+British: 11 
+Tory: 10 
+
+Top 10 words from speech 265: 
+new: 12 
+people: 10 
+global: 10 
+world: 10 
+liberals: 9 
+proud: 8 
+British: 8 
+power: 7 
+work: 6 
+countries: 6 
+
+Top 10 words from speech 264: 
+Government: 14 
+Liberal: 11 
+new: 10 
+interest: 8 
+public: 8 
+people: 7 
+Government's: 7 
+Wales: 6 
+billion: 6 
+Tory: 6 
+
+Top 10 words from speech 263: 
+Liberal: 19 
+Europe: 16 
+Democrats: 14 
+Britain: 9 
+British: 8 
+European: 8 
+Government: 8 
+first: 7 
+longer: 6 
+people: 6 
+
+Top 10 words from speech 262: 
+people: 34 
+work: 25 
+new: 20 
+jobs: 14 
+job: 12 
+economy: 11 
+economic: 11 
+tax: 11 
+Government: 10 
+means: 10 
+
+Top 10 words from speech 261: 
+Liberal: 15 
+Europe: 13 
+public: 7 
+British: 7 
+Democrats: 7 
+European: 7 
+Sheffield: 6 
+Britain: 6 
+defence: 6 
+waiting: 5 
+
+Top 10 words from speech 260: 
+Liberal: 18 
+Scottish: 17 
+people: 10 
+Democrats: 10 
+tax: 10 
+Labour: 10 
+Government: 9 
+extra: 8 
+schools: 7 
+Union: 7 
+
+Top 10 words from speech 259: 
+Labour: 29 
+parties: 18 
+people: 17 
+system: 17 
+vote: 16 
+PR: 16 
+voting: 13 
+Conservative: 12 
+British: 12 
+power: 11 
+
+Top 10 words from speech 258: 
+issues: 9 
+new: 9 
+successful: 7 
+politics: 7 
+environmental: 7 
+means: 7 
+future: 6 
+people: 6 
+World: 5 
+Liberal: 5 
+
+Top 10 words from speech 257: 
+public: 45 
+new: 35 
+services: 35 
+approach: 27 
+people: 26 
+local: 17 
+tax: 17 
+Liberal: 16 
+money: 16 
+Government: 15 
+
+Top 10 words from speech 256: 
+British: 16 
+Liberal: 16 
+Democrats: 14 
+Britain: 14 
+economic: 9 
+business: 9 
+single: 7 
+education: 6 
+change: 5 
+economy: 5 
+
+Top 10 words from speech 255: 
+Liberal: 17 
+people: 11 
+public: 9 
+Democrats: 9 
+money: 8 
+Government: 7 
+extra: 6 
+Tory: 6 
+Budget: 5 
+Labour: 5 
+
+Top 10 words from speech 254: 
+Government: 17 
+Labour: 14 
+tax: 12 
+election: 11 
+public: 10 
+health: 7 
+campaign: 6 
+Liberal: 6 
+new: 6 
+education: 6 
+
+Top 10 words from speech 253: 
+individual: 16 
+new: 15 
+self-reliant: 14 
+society: 13 
+people: 12 
+Liberal: 9 
+right: 9 
+power: 9 
+public: 9 
+social: 9 
+
+Top 10 words from speech 252: 
+Liberal: 20 
+Britain: 13 
+Europe: 12 
+Democrats: 8 
+British: 7 
+Single: 7 
+East: 6 
+Democrat: 6 
+Conservatives: 5 
+win: 5 
+
+Top 10 words from speech 251: 
+people: 29 
+young: 14 
+local: 10 
+homeless: 8 
+provide: 7 
+decent: 7 
+housing: 7 
+empty: 6 
+means: 5 
+Foyer: 5 
+
+Top 10 words from speech 250: 
+people: 10 
+Liberal: 8 
+manifesto: 8 
+Democrats: 7 
+new: 7 
+British: 6 
+Britain: 6 
+education: 5 
+difference: 4 
+policies: 4 
+
+Top 10 words from speech 249: 
+Europe: 21 
+European: 10 
+Liberal: 8 
+right: 8 
+Britain: 8 
+Euro: 7 
+Tories: 7 
+Tory: 6 
+people: 6 
+British: 6 
+
+Top 10 words from speech 248: 
+Liberal: 19 
+Democrats: 12 
+people: 12 
+NHS: 9 
+London: 9 
+Labour: 9 
+extra: 8 
+Tory: 7 
+strategic: 7 
+public: 6 
+
+Top 10 words from speech 247: 
+Liberal: 14 
+vote: 14 
+government: 12 
+Scott: 12 
+Democrats: 10 
+Major: 9 
+parliament: 8 
+Government: 8 
+people: 7 
+local: 6 
+
+Top 10 words from speech 246: 
+Wales: 23 
+Welsh: 17 
+Assembly: 16 
+people: 14 
+vote: 12 
+reform: 9 
+means: 8 
+Conservatives: 7 
+whole: 7 
+Conservative: 7 
+
+Top 10 words from speech 245: 
+vote: 30 
+people: 15 
+Liberal: 13 
+Democrat: 11 
+country: 9 
+Government: 9 
+British: 8 
+chance: 8 
+great: 6 
+clear: 6 
+
+Top 10 words from speech 244: 
+tax: 67 
+people: 24 
+public: 21 
+Government: 20 
+new: 17 
+taxes: 17 
+Labour: 17 
+money: 14 
+spending: 14 
+system: 14 
+
+Top 10 words from speech 243: 
+Liberal: 23 
+vote: 13 
+people: 13 
+Democrats: 12 
+government: 10 
+Britain: 10 
+change: 9 
+Isle: 9 
+tax: 9 
+local: 9 
+
+Top 10 words from speech 242: 
+Tories: 12 
+Labour: 12 
+system: 11 
+Conservative: 10 
+British: 8 
+new: 7 
+Liberal: 7 
+people: 7 
+elected: 7 
+Government: 7 
+
+Top 10 words from speech 241: 
+NHS: 20 
+Liberal: 13 
+Labour: 11 
+Health: 10 
+goodbye: 8 
+National: 8 
+people: 8 
+Tory: 8 
+Democrats: 8 
+doctors: 8 
+
+Top 10 words from speech 240: 
+vote: 16 
+campaign: 12 
+people: 12 
+education: 11 
+crusade: 10 
+Labour: 9 
+Scottish: 8 
+new: 8 
+Liberal: 7 
+country: 6 
+
+Top 10 words from speech 239: 
+European: 18 
+Europe: 16 
+people: 11 
+Union: 10 
+simply: 6 
+peace: 6 
+Europe's: 5 
+debate: 4 
+Europe,: 4 
+British: 4 
+
+Top 10 words from speech 238: 
+education: 36 
+learning: 17 
+new: 16 
+schools: 14 
+raise: 14 
+training: 13 
+school: 12 
+teachers: 12 
+opportunities: 10 
+access: 10 
+
+Top 10 words from speech 237: 
+Liberal: 19 
+vote: 14 
+people: 13 
+Britain: 11 
+change: 10 
+Democrats: 9 
+government: 9 
+Democrat: 8 
+Edinburgh: 8 
+local: 7 
+
+Top 10 words from speech 236: 
+Liberal: 19 
+vote: 16 
+Scottish: 16 
+Democrats: 12 
+Government: 12 
+Labour: 12 
+new: 11 
+people: 11 
+Scotland: 11 
+tax: 11 
+
+Top 10 words from speech 235: 
+European: 34 
+Britain: 32 
+Europe: 29 
+British: 20 
+new: 12 
+international: 12 
+interests: 12 
+effective: 11 
+security: 11 
+policy: 11 
+
+Top 10 words from speech 234: 
+new: 13 
+knowledge: 12 
+intellectual: 9 
+company: 8 
+business: 8 
+revolution: 7 
+Liberal: 7 
+capital: 6 
+market: 6 
+less: 6 
+
+Top 10 words from speech 233: 
+Liberal: 19 
+people: 14 
+Democrats: 14 
+new: 13 
+power: 12 
+British: 12 
+extra: 11 
+money: 11 
+vote: 10 
+tax: 10 
+
+Top 10 words from speech 232: 
+Liberal: 15 
+people: 14 
+Labour: 13 
+education: 10 
+election: 10 
+Democrats: 9 
+Britain: 9 
+tax: 7 
+clear: 6 
+local: 6 
+
+Top 10 words from speech 231: 
+economic: 22 
+British: 22 
+Liberal: 20 
+Democrats: 20 
+new: 13 
+long-term: 12 
+Britain: 12 
+education: 12 
+business: 11 
+investment: 11 
+
+Top 10 words from speech 230: 
+welfare: 25 
+state: 16 
+new: 15 
+people: 15 
+social: 15 
+system: 14 
+provision: 10 
+public: 10 
+poor: 7 
+private: 7 
+
+Top 10 words from speech 229: 
+Liberal: 23 
+people: 14 
+Democrats: 12 
+Conservatives: 11 
+join: 10 
+real: 10 
+Rosemary: 9 
+local: 8 
+pay: 8 
+Conservative: 8 
+
+Top 10 words from speech 228: 
+local: 68 
+government: 36 
+new: 24 
+people: 14 
+Government: 14 
+power: 14 
+democracy: 10 
+Local: 10 
+national: 9 
+councils: 8 
+
+Top 10 words from speech 227: 
+British: 25 
+Liberal: 24 
+people: 15 
+European: 14 
+Government: 14 
+Scottish: 13 
+BSE: 12 
+Britain's: 11 
+Minister: 9 
+Democrats: 9 
+
+Top 10 words from speech 226: 
+people: 22 
+Labour: 21 
+new: 17 
+Government: 17 
+Liberal: 15 
+local: 13 
+Scottish: 12 
+Britain: 11 
+European: 10 
+change: 10 
+
+Top 10 words from speech 225: 
+country: 9 
+British: 5 
+world: 5 
+people: 5 
+own: 5 
+Britain: 5 
+round: 4 
+good: 4 
+Prime: 4 
+life: 4 
+
+Top 10 words from speech 224: 
+people: 19 
+focus: 7 
+British: 6 
+public: 4 
+work: 4 
+values: 4 
+believe: 4 
+government: 4 
+election: 4 
+issues: 3 
+
+Top 10 words from speech 223: 
+people: 6 
+changes: 5 
+country: 5 
+British: 4 
+believe: 4 
+clearly: 4 
+try: 3 
+change: 3 
+victory: 3 
+laid: 3 
+
+Top 10 words from speech 222: 
+new: 7 
+government: 6 
+Labour: 6 
+people: 5 
+British: 4 
+mandate: 4 
+country: 4 
+values: 3 
+politics,: 3 
+New: 3 
+
+Top 10 words from speech 221: 
+Downing: 3 
+British: 3 
+politics,: 3 
+Prime: 2 
+british: 2 
+leaving: 2 
+happy: 2 
+wonderful: 1 
+half: 1 
+grateful: 1 
+
+Top 10 words from speech 220: 
+Thatcher:</p>: 6 
+British: 5 
+bring: 5 
+believe: 3 
+politics,: 3 
+own: 3 
+try: 2 
+strive: 2 
+british: 2 
+words: 2 
+
+Top 10 words from speech 219: 
+British: 7 
+people: 7 
+new: 6 
+values: 4 
+challenges: 4 
+feel: 4 
+believe: 4 
+trust: 4 
+country: 4 
+Labour: 4 
+
+Top 10 words from speech 218: 
+thank: 4 
+love: 3 
+British: 3 
+challenges: 3 
+job: 3 
+politics,: 3 
+well: 3 
+resignation: 2 
+british: 2 
+loved: 2 
+
+Top 10 words from speech 217: 
+government: 10 
+country: 6 
+believe: 5 
+difficult: 4 
+rebuilding: 3 
+values: 3 
+British: 3 
+society: 3 
+politics,: 3 
+together,: 3 
+
+Top 10 words from speech 216: 
+new: 25 
+people: 23 
+better: 18 
+British: 14 
+Britain: 12 
+meet: 11 
+local: 10 
+wanting: 10 
+government: 10 
+change: 9 
+
+Top 10 words from speech 215: 
+British: 3 
+politics,: 3 
+british: 2 
+sorry,: 1 
+ga.type: 1 
+cameron: 1 
+content="british: 1 
+found.</h3>: 1 
+"Rhetoric: 1 
+<ul><li: 1 
+
+Top 10 words from speech 214: 
+people: 42 
+government: 25 
+new: 24 
+country: 22 
+big: 18 
+spirit: 14 
+help: 14 
+money: 13 
+work: 11 
+society: 11 
+
+Top 10 words from speech 213: 
+Britain: 15 
+great: 13 
+people: 12 
+new: 11 
+Conservative: 11 
+country: 10 
+British: 9 
+Conference: 8 
+believe: 8 
+own: 8 
+
+Top 10 words from speech 212: 
+generation: 36 
+new: 27 
+change: 18 
+country: 18 
+people: 17 
+old: 15 
+thinking: 15 
+right: 14 
+government: 14 
+believe: 13 
+
+Top 10 words from speech 211: 
+British: 3 
+politics,: 3 
+british: 2 
+sorry,: 1 
+ga.type: 1 
+cameron: 1 
+content="british: 1 
+found.</h3>: 1 
+"Rhetoric: 1 
+<ul><li: 1 
+
+Top 10 words from speech 210: 
+people: 21 
+new: 19 
+Liberal: 15 
+money: 15 
+Labour: 15 
+tax: 14 
+first: 12 
+country: 12 
+government: 12 
+children: 11 
+
+Top 10 words from speech 209: 
+British: 3 
+politics,: 3 
+british: 2 
+sorry,: 1 
+ga.type: 1 
+cameron: 1 
+content="british: 1 
+found.</h3>: 1 
+"Rhetoric: 1 
+<ul><li: 1 
+
+Top 10 words from speech 208: 
+British: 3 
+politics,: 3 
+british: 2 
+sorry,: 1 
+ga.type: 1 
+cameron: 1 
+content="british: 1 
+found.</h3>: 1 
+"Rhetoric: 1 
+<ul><li: 1 
+
+Top 10 words from speech 207: 
+British: 3 
+politics,: 3 
+british: 2 
+sorry,: 1 
+ga.type: 1 
+cameron: 1 
+content="british: 1 
+found.</h3>: 1 
+"Rhetoric: 1 
+<ul><li: 1 
+
+Top 10 words from speech 206: 
+people: 22 
+government: 21 
+Britain: 19 
+new: 17 
+first: 16 
+Tory: 13 
+big: 13 
+country: 11 
+cuts: 11 
+million: 11 
+
+Top 10 words from speech 205: 
+people: 25 
+new: 23 
+forces: 23 
+Tory: 17 
+Britain: 17 
+Labour: 15 
+potential: 14 
+British: 14 
+economic: 13 
+child: 12 
+
+Top 10 words from speech 204: 
+country: 23 
+people: 22 
+challenge: 20 
+government: 20 
+Labour: 17 
+new: 16 
+(Applause): 16 
+Tory: 13 
+first: 12 
+world: 11 
+
+Top 10 words from speech 203: 
+people: 25 
+British: 23 
+Britain: 23 
+country: 22 
+new: 19 
+Labour: 18 
+Government: 15 
+hard: 13 
+world: 11 
+money: 10 
+
+Top 10 words from speech 202: 
+new: 40 
+(Applause): 36 
+people: 30 
+Britain: 28 
+Labour: 27 
+government: 24 
+British: 21 
+world: 17 
+age: 17 
+Tories: 15 
+
+Top 10 words from speech 201: 
+new: 62 
+Labour: 38 
+country: 28 
+people: 28 
+young: 20 
+government: 20 
+Britain: 20 
+Tories: 16 
+Tory: 15 
+nation: 14 
+
+Top 10 words from speech 200: 
+people: 33 
+new: 31 
+(Applause): 24 
+government: 24 
+public: 19 
+Tories: 19 
+Labour: 19 
+country: 17 
+work: 15 
+Tory: 14 
+
+Top 10 words from speech 199: 
+people: 44 
+Government: 34 
+Tory: 24 
+Labour: 24 
+new: 23 
+country: 21 
+British: 15 
+own: 15 
+John: 13 
+choice: 13 
+
+Top 10 words from speech 198: 
+people: 41 
+government: 41 
+British: 14 
+Labour: 14 
+(Applause): 13 
+believe: 13 
+new: 12 
+active: 12 
+Britain: 12 
+social: 11 
+
+Top 10 words from speech 197: 
+people: 42 
+government: 37 
+Britain: 29 
+British: 28 
+country: 20 
+Labour: 17 
+public: 16 
+new: 15 
+modern: 14 
+economic: 14 
+
+Top 10 words from speech 196: 
+government: 30 
+people: 26 
+education: 18 
+world: 16 
+(Applause): 16 
+country: 15 
+interest: 14 
+training: 14 
+Tory: 13 
+long: 12 
+
+Top 10 words from speech 195: 
+people: 46 
+countries: 19 
+British: 19 
+Britain: 16 
+support: 14 
+water: 14 
+government: 13 
+country: 12 
+Tory: 12 
+kind: 11 
+
+Top 10 words from speech 194: 
+social: 32 
+people: 27 
+justice: 16 
+economic: 16 
+nuclear: 14 
+government: 14 
+Prime: 13 
+Minister: 12 
+efficiency: 12 
+European: 11 
+
+Top 10 words from speech 193: 
+people: 44 
+Big: 25 
+socialism: 16 
+realities: 14 
+Idea: 14 
+movement: 13 
+reality: 11 
+election: 10 
+ensure: 10 
+review: 9 
+
+Top 10 words from speech 192: 
+people: 33 
+country: 25 
+British: 18 
+new: 15 
+(Applause): 13 
+against: 12 
+government: 12 
+defence: 11 
+policies: 11 
+investment: 11 
+
+Top 10 words from speech 191: 
+people: 59 
+(Applause): 38 
+British: 33 
+real: 28 
+government: 23 
+Labour: 21 
+country: 16 
+Britain: 16 
+money: 15 
+life: 14 
+
+Top 10 words from speech 190: 
+power: 23 
+country: 16 
+people: 14 
+government: 14 
+economic: 10 
+dispute: 9 
+violence: 9 
+action: 9 
+condemn: 9 
+coal: 9 
+
+Top 10 words from speech 189: 
+people: 25 
+British: 25 
+country: 21 
+election: 19 
+believe: 16 
+Labour: 15 
+steel: 13 
+public: 11 
+great: 11 
+world: 10 
+
+Top 10 words from speech 188: 
+world: 22 
+people: 18 
+international: 18 
+Labour: 17 
+scale: 15 
+country: 14 
+great: 14 
+government: 14 
+nuclear: 13 
+policy: 11 
+
+Top 10 words from speech 187: 
+(Applause): 22 
+Labour: 17 
+country: 14 
+(Laughter): 14 
+course: 13 
+whole: 13 
+people: 12 
+nuclear: 12 
+Tony: 11 
+Government: 11 
+
+Top 10 words from speech 186: 
+people: 29 
+public: 21 
+world: 17 
+social: 15 
+community: 13 
+British: 13 
+new: 11 
+justice: 11 
+September: 9 
+power: 9 
+
+Top 10 words from speech 185: 
+new: 14 
+believe: 14 
+Britain: 14 
+Labour: 14 
+people: 13 
+Government: 13 
+British: 12 
+public: 11 
+system: 11 
+schools: 10 
+
+Top 10 words from speech 184: 
+people: 16 
+new: 15 
+fair: 13 
+world: 12 
+Labour: 11 
+Britain: 11 
+right: 10 
+Government: 10 
+British: 10 
+21st: 9 
+
+Top 10 words from speech 183: 
+people: 28 
+new: 15 
+Labour: 15 
+third: 12 
+future: 12 
+opportunity: 12 
+British: 12 
+country: 11 
+first: 11 
+Britain: 11 
+
+Top 10 words from speech 182: 
+people: 23 
+government: 18 
+Labour: 18 
+change: 16 
+world: 16 
+Britain: 14 
+first: 12 
+future: 12 
+new: 11 
+country: 11 
+
+Top 10 words from speech 181: 
+new: 36 
+change: 35 
+people: 33 
+British: 30 
+Britain: 21 
+choice: 16 
+Labour: 16 
+world: 15 
+work: 13 
+country: 13 
+
+Top 10 words from speech 180: 
+people: 52 
+new: 51 
+world: 21 
+country: 20 
+fair: 19 
+Labour: 19 
+British: 17 
+million: 15 
+children: 15 
+work: 14 
+
+Top 10 words from speech 179: 
+Britain: 43 
+new: 37 
+British: 31 
+people: 29 
+work: 19 
+first: 19 
+children: 18 
+stand: 17 
+country: 16 
+young: 16 
+
+Top 10 words from speech 178: 
+Labour: 18 
+world: 16 
+own: 15 
+Soviet: 14 
+new: 13 
+believe: 13 
+work: 12 
+people: 12 
+view: 12 
+great: 9 
+
+Top 10 words from speech 177: 
+Labour: 34 
+Government: 24 
+new: 20 
+(Applause): 18 
+people: 17 
+Parliament: 17 
+Conference: 16 
+Members: 14 
+National: 13 
+against: 12 
+
+Top 10 words from speech 176: 
+Government: 40 
+people: 21 
+Labour: 21 
+inflation: 17 
+pay: 14 
+trade: 14 
+society: 14 
+new: 13 
+industrial: 12 
+intend: 12 
+
+Top 10 words from speech 175: 
+Government: 25 
+Labour: 22 
+people: 20 
+country: 14 
+British: 14 
+industry: 13 
+new: 12 
+right: 11 
+industrial: 10 
+Conference: 10 
+
+Top 10 words from speech 174: 
+Government: 25 
+industrial: 22 
+people: 21 
+economic: 18 
+industry: 15 
+new: 14 
+trade: 14 
+Labour: 12 
+work: 11 
+employers: 11 
+
+Top 10 words from speech 173: 
+Labour: 33 
+Government: 21 
+social: 17 
+new: 17 
+world: 16 
+relations: 14 
+public: 13 
+economic: 13 
+Act: 12 
+policy: 11 
+
+Top 10 words from speech 172: 
+investment: 25 
+social: 23 
+Government: 22 
+public: 19 
+industrial: 18 
+economic: 17 
+Labour: 17 
+new: 14 
+Parliament: 12 
+means: 12 
+
+Top 10 words from speech 171: 
+Government: 15 
+new: 13 
+Labour: 13 
+people: 12 
+fact: 12 
+public: 11 
+country: 10 
+prices: 10 
+freeze: 10 
+vote: 9 
+
+Top 10 words from speech 170: 
+Heath: 29 
+Government: 26 
+prices: 20 
+(Applause): 17 
+land: 17 
+British: 16 
+price: 15 
+policy: 14 
+whole: 14 
+Labour: 14 
+
+Top 10 words from speech 169: 
+Labour: 37 
+Government: 31 
+Tory: 26 
+Conservative: 22 
+against: 20 
+prices: 20 
+British: 19 
+Britain: 18 
+industrial: 17 
+free: 16 
+
+Top 10 words from speech 168: 
+Government: 31 
+economic: 19 
+Labour: 18 
+social: 17 
+Tory: 15 
+public: 15 
+first: 14 
+new: 12 
+industrial: 12 
+policy: 12 
+
+Top 10 words from speech 167: 
+Britain: 25 
+Labour: 24 
+new: 22 
+economic: 20 
+Government: 19 
+problems: 18 
+social: 14 
+British: 13 
+deal: 10 
+Tory: 10 
+
+Top 10 words from speech 166: 
+industrial: 35 
+Government: 30 
+social: 27 
+world: 23 
+economic: 20 
+new: 18 
+Britain: 16 
+measures: 14 
+role: 13 
+industry: 13 
+
+Top 10 words from speech 165: 
+social: 38 
+industrial: 26 
+new: 22 
+Government: 22 
+economic: 22 
+right: 21 
+Tory: 20 
+industry: 20 
+British: 17 
+Scarborough: 16 
+
+Top 10 words from speech 164: 
+industrial: 31 
+social: 25 
+measures: 24 
+Government: 23 
+new: 21 
+change: 21 
+economic: 18 
+first: 15 
+conservatism: 15 
+people: 13 
+
+Top 10 words from speech 163: 
+economic: 29 
+new: 27 
+industrial: 23 
+Bill: 20 
+Parliamentary: 19 
+social: 17 
+Britain: 17 
+Tory: 16 
+Labour: 16 
+measures: 16 
+
+Top 10 words from speech 162: 
+Government: 28 
+economic: 20 
+new: 17 
+world: 16 
+Labour: 16 
+Britain: 16 
+British: 13 
+country: 12 
+believe: 12 
+work: 10 
+
+Top 10 words from speech 161: 
+great: 30 
+people: 17 
+policy: 11 
+work: 9 
+world: 9 
+Government: 9 
+Labour: 9 
+months: 8 
+deal: 7 
+free: 6 
+
+Top 10 words from speech 160: 
+Labour: 10 
+House: 9 
+work: 8 
+great: 8 
+period: 7 
+policy: 7 
+Government: 7 
+Parliament: 6 
+number: 6 
+small: 5 
+
+Top 10 words from speech 159: 
+great: 21 
+work: 18 
+past: 10 
+country: 10 
+policy: 10 
+people: 9 
+Government: 8 
+programme: 7 
+economic: 7 
+members: 6 
+
+Top 10 words from speech 158: 
+great: 15 
+work: 10 
+policy: 7 
+Labour: 7 
+today: 6 
+team: 5 
+social: 5 
+economic: 5 
+Government: 5 
+Government.: 4 
+
+Top 10 words from speech 157: 
+great: 20 
+world: 11 
+work: 9 
+Parliament: 9 
+faith: 8 
+Government: 7 
+deal: 6 
+charge: 5 
+programme: 5 
+social: 5 
+
+Top 10 words from speech 156: 
+work: 19 
+great: 17 
+Labour: 17 
+House: 14 
+full: 13 
+Government: 12 
+world: 10 
+measures: 10 
+people: 9 
+war: 8 
+
+Top 10 words from speech 155: 
+Labour: 18 
+Government: 17 
+own: 11 
+work: 10 
+country: 10 
+whilst: 10 
+policy: 8 
+Liberal: 7 
+men: 7 
+old: 7 
+
+Top 10 words from speech 154: 
+government: 26 
+country: 21 
+big: 20 
+people: 16 
+children: 15 
+British: 15 
+life: 12 
+pay: 12 
+Britain: 11 
+debt: 10 
+
+Top 10 words from speech 153: 
+people: 23 
+government: 20 
+believe: 18 
+Conservative: 16 
+big: 16 
+financial: 15 
+country: 14 
+times: 13 
+state: 13 
+work: 12 
+
+Top 10 words from speech 152: 
+people: 64 
+new: 22 
+great: 21 
+world: 20 
+country: 18 
+changes: 16 
+children: 15 
+change: 14 
+believe: 14 
+right: 13 
+
+Top 10 words from speech 151: 
+British: 19 
+people: 18 
+new: 17 
+NHS: 15 
+means: 14 
+responsibility: 13 
+social: 12 
+believe: 12 
+schools: 10 
+support: 10 
+
+Top 10 words from speech 150: 
+people: 38 
+British: 16 
+Conservative: 14 
+government: 14 
+Britain: 14 
+trust: 9 
+police: 9 
+first: 9 
+Government: 9 
+Labour: 9 
+
+Top 10 words from speech 149: 
+people: 26 
+government: 16 
+Tony: 15 
+British: 14 
+tax: 13 
+fight: 11 
+right: 10 
+tough: 9 
+Conservative: 9 
+Conservatives: 9 
+
+Top 10 words from speech 148: 
+people: 36 
+country: 13 
+Britain: 13 
+own: 12 
+Conservatives: 10 
+schools: 8 
+right: 8 
+children: 8 
+public: 8 
+believe: 8 
+
+Top 10 words from speech 147: 
+people: 17 
+public: 14 
+own: 13 
+terrorists: 10 
+America: 9 
+services: 8 
+British: 8 
+against: 7 
+lives: 7 
+means: 7 
+
+Top 10 words from speech 146: 
+people: 66 
+govern: 31 
+country: 20 
+Labour: 20 
+Government: 19 
+ready: 17 
+British: 14 
+schools: 13 
+Conservative: 13 
+New: 13 
+
+Top 10 words from speech 145: 
+people: 48 
+Labour: 30 
+Sense: 28 
+country: 27 
+Common: 27 
+believe: 23 
+Britain: 21 
+Tony: 20 
+Blair: 17 
+sense: 16 
+
+Top 10 words from speech 144: 
+British: 58 
+people: 37 
+Conservative: 27 
+Labour: 25 
+Government: 24 
+Britain: 16 
+new: 15 
+New: 15 
+people.: 13 
+work: 12 
+
+Top 10 words from speech 143: 
+people: 7 
+Conservative: 6 
+British: 5 
+reform: 5 
+William: 4 
+build: 4 
+local: 4 
+election: 4 
+strong: 3 
+defeat: 3 
+
+Top 10 words from speech 142: 
+people: 19 
+new: 15 
+year,: 13 
+help: 11 
+Europe: 10 
+set: 10 
+Northern: 10 
+Labour: 10 
+choice: 9 
+plans: 9 
+
+Top 10 words from speech 141: 
+people: 19 
+Labour: 16 
+Chairman,: 13 
+choice: 11 
+believe: 11 
+new: 10 
+welfare: 10 
+schools: 9 
+mean: 9 
+children: 9 
+
+Top 10 words from speech 140: 
+people: 37 
+President,: 26 
+Labour: 19 
+new: 15 
+Northern: 15 
+right: 14 
+British: 14 
+Health: 12 
+National: 11 
+Britain: 11 
+
+Top 10 words from speech 139: 
+President,: 33 
+people: 32 
+British: 28 
+country: 21 
+Madam: 15 
+tax: 13 
+part: 12 
+right: 11 
+new: 10 
+against: 9 
+
+Top 10 words from speech 138: 
+British: 30 
+people: 25 
+Britain: 13 
+children: 12 
+better: 10 
+European: 10 
+new: 10 
+against: 10 
+right: 10 
+Government: 9 
+
+Top 10 words from speech 137: 
+people: 26 
+Labour: 18 
+Britain: 14 
+Conservative: 13 
+own: 13 
+new: 12 
+Health: 11 
+country: 10 
+right: 10 
+believe: 10 
+
+Top 10 words from speech 136: 
+Britain: 22 
+new: 20 
+President,: 19 
+people: 18 
+Labour: 14 
+Europe: 12 
+world: 10 
+own: 10 
+freedom: 9 
+British: 8 
+
+Top 10 words from speech 135: 
+people: 19 
+President,: 18 
+Labour: 15 
+Britain: 12 
+world: 11 
+own: 10 
+right: 9 
+choice: 9 
+new: 8 
+Government: 8 
+
+Top 10 words from speech 134: 
+people: 19 
+President,: 16 
+new: 14 
+Government: 14 
+Conservative: 12 
+great: 12 
+British: 11 
+Britain: 10 
+against: 9 
+Europe: 9 
+
+Top 10 words from speech 133: 
+President,: 18 
+people: 16 
+Soviet: 11 
+against: 11 
+children: 11 
+free: 9 
+Britain: 9 
+education: 9 
+crime: 8 
+cities: 8 
+
+Top 10 words from speech 132: 
+people: 24 
+Labour: 22 
+nuclear: 16 
+Britain: 16 
+new: 14 
+British: 11 
+defence: 10 
+country: 10 
+policy: 9 
+jobs: 9 
+
+Top 10 words from speech 131: 
+Labour: 21 
+people: 16 
+Britain: 13 
+country: 8 
+teachers: 8 
+power: 8 
+strike: 7 
+police: 7 
+Government: 7 
+new: 6 
+
+Top 10 words from speech 130: 
+new: 25 
+jobs: 15 
+Government: 14 
+people: 12 
+nuclear: 11 
+investment: 10 
+first: 9 
+miners: 9 
+law: 8 
+working: 8 
+
+Top 10 words from speech 129: 
+people: 25 
+new: 21 
+Government: 17 
+Soviet: 16 
+Britain: 12 
+British: 11 
+jobs: 10 
+industries: 9 
+work: 8 
+Union: 8 
+
+Top 10 words from speech 128: 
+(applause): 35 
+President,: 20 
+people: 18 
+Labour: 18 
+British: 14 
+Health: 13 
+Government: 13 
+Britain: 13 
+jobs: 11 
+(laughter): 9 
+
+Top 10 words from speech 127: 
+Government: 15 
+million: 13 
+common: 11 
+British: 11 
+jobs: 10 
+world: 10 
+unemployment: 8 
+country: 7 
+people: 7 
+extra: 7 
+
+Top 10 words from speech 126: 
+people: 19 
+Government: 13 
+great: 11 
+nation: 9 
+public: 9 
+British: 9 
+own: 9 
+new: 8 
+free: 8 
+healthy: 8 
+
+Top 10 words from speech 125: 
+Government: 21 
+trade: 14 
+union: 13 
+people: 12 
+British: 12 
+unions: 11 
+pay: 10 
+members: 10 
+great: 10 
+Conservative: 9 
+
+Top 10 words from speech 124: 
+Labour: 30 
+Conservative: 17 
+country: 13 
+union: 10 
+against: 9 
+Government: 9 
+British: 9 
+government: 9 
+Britain: 9 
+Conservatives: 8 
+
+Top 10 words from speech 123: 
+Government: 32 
+Labour: 28 
+people: 21 
+Conservative: 20 
+own: 13 
+believe: 11 
+Socialist: 10 
+Britain: 10 
+election: 9 
+work: 7 
+
+Top 10 words from speech 122: 
+Labour: 26 
+Conservative: 21 
+Government: 15 
+good: 13 
+country: 11 
+trade: 10 
+union: 9 
+government: 9 
+people: 8 
+public: 8 
+
+Top 10 words from speech 121: 
+Labour: 20 
+people: 16 
+Government: 15 
+Britain: 12 
+challenge: 11 
+economic: 10 
+believe: 9 
+own: 9 
+better: 8 
+free: 8 
+
+Top 10 words from speech 120: 
+people: 27 
+Community: 20 
+British: 18 
+first: 16 
+Government: 16 
+new: 15 
+European: 14 
+countries: 14 
+world: 14 
+Conference: 14 
+
+Top 10 words from speech 119: 
+Government: 15 
+people: 12 
+new: 10 
+country: 10 
+part: 10 
+world: 10 
+British: 9 
+economic: 8 
+nation: 8 
+employers: 8 
+
+Top 10 words from speech 118: 
+new: 28 
+world: 27 
+country: 18 
+people: 18 
+Government: 15 
+policies: 14 
+long: 13 
+Ireland: 11 
+Britain: 11 
+change: 10 
+
+Top 10 words from speech 117: 
+Government: 27 
+new: 13 
+own: 13 
+nation: 12 
+British: 12 
+first: 11 
+free: 10 
+task: 10 
+country: 9 
+people: 9 
+
+Top 10 words from speech 116: 
+Labour: 31 
+Government: 26 
+country: 22 
+people: 22 
+million: 17 
+record: 17 
+better: 15 
+own: 15 
+Conservative: 14 
+policy: 12 
+
+Top 10 words from speech 115: 
+Government: 31 
+own: 16 
+Britain: 16 
+against: 12 
+people: 12 
+work: 10 
+Conference: 10 
+world: 10 
+country: 9 
+Conservative: 9 
+
+Top 10 words from speech 114: 
+Government: 31 
+country: 23 
+people: 23 
+Conservative: 16 
+policies: 13 
+British: 13 
+own: 13 
+believe: 11 
+Labour: 11 
+local: 10 
+
+Top 10 words from speech 113: 
+Government: 28 
+country: 16 
+trade: 15 
+Labour: 13 
+Conference: 12 
+enterprise: 11 
+believe: 11 
+British: 11 
+men: 10 
+life: 10 
+
+Top 10 words from speech 112: 
+great: 20 
+Conference: 12 
+Government: 11 
+British: 11 
+change: 9 
+million: 9 
+Wilson: 9 
+own: 9 
+plans: 8 
+present: 8 
+
+Top 10 words from speech 111: 
+new: 23 
+Europe: 19 
+great: 18 
+European: 17 
+economic: 15 
+Britain: 11 
+world: 10 
+old: 9 
+negotiations: 9 
+Europe,: 9 
+
+Top 10 words from speech 110: 
+great: 16 
+new: 13 
+help: 10 
+Commonwealth: 10 
+country: 9 
+Government: 9 
+old: 8 
+today: 8 
+believe: 8 
+world: 8 
+
+Top 10 words from speech 109: 
+great: 21 
+new: 19 
+people: 19 
+world.: 14 
+Conservative: 12 
+good: 12 
+Commonwealth: 12 
+British: 12 
+countries: 11 
+world: 11 
+
+Top 10 words from speech 108: 
+world: 17 
+Commonwealth: 13 
+great: 11 
+against: 10 
+British: 10 
+new: 8 
+countries: 8 
+United: 8 
+trade: 8 
+free: 6 
+
+Top 10 words from speech 107: 
+people: 22 
+great: 17 
+world: 15 
+new: 13 
+Socialist: 12 
+duty: 12 
+course,: 12 
+believe: 11 
+own: 11 
+well: 11 
+
+Top 10 words from speech 106: 
+Government: 17 
+country: 16 
+Socialist: 16 
+British: 11 
+world: 10 
+international: 10 
+life: 9 
+United: 9 
+national: 9 
+new: 7 
+
+Top 10 words from speech 105: 
+work: 17 
+reduction: 13 
+forces: 12 
+sure: 10 
+world: 10 
+part: 9 
+men: 8 
+Minister: 8 
+country: 8 
+new: 8 
+
+Top 10 words from speech 104: 
+British: 3 
+politics,: 3 
+Europe: 2 
+british: 2 
+Churchill: 2 
+government,: 1 
+ga.type: 1 
+Conditions</a>: 1 
+cameron: 1 
+content="british: 1 
+
+Top 10 words from speech 103: 
+British: 5 
+politics,: 3 
+Churchill: 3 
+election: 2 
+included: 2 
+british: 2 
+general: 2 
+focus: 1 
+ga.type: 1 
+href="contact.htm">Contact</a>: 1 
+
+Top 10 words from speech 102: 
+British: 3 
+politics,: 3 
+british: 2 
+Britain: 2 
+Churchill: 2 
+government,: 1 
+Acts: 1 
+extravagance&rsquo;: 1 
+ga.type: 1 
+Conditions</a>: 1 
+
+Top 10 words from speech 101: 
+politics,: 4 
+Churchill: 4 
+British: 3 
+government: 2 
+british: 2 
+action: 2 
+called: 1 
+Conservative: 1 
+ga.type: 1 
+Conditions</a>: 1 
+
+Top 10 words from speech 100: 
+British: 3 
+Churchill: 3 
+politics,: 3 
+election: 3 
+general: 3 
+british: 2 
+month: 1 
+cameron: 1 
+src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js": 1 
+s.parentNode.insertBefore(ga,: 1 
+
+Top 10 words from speech 99: 
+British: 4 
+Churchill: 4 
+politics,: 3 
+Russia: 2 
+Europe: 2 
+british: 2 
+Empire;: 1 
+However,: 1 
+ga.type: 1 
+policy,: 1 
+
+Top 10 words from speech 98: 
+British: 4 
+politics,: 3 
+british: 2 
+ga.type: 1 
+principles: 1 
+cameron: 1 
+content="british: 1 
+However,: 1 
+href="about.htm">About</a>: 1 
+cut: 1 
+
+Top 10 words from speech 97: 
+British: 3 
+politics,: 3 
+british: 2 
+first: 2 
+Churchill: 2 
+ga.type: 1 
+Conditions</a>: 1 
+href="contact.htm">Contact</a>: 1 
+cameron: 1 
+content="british: 1 
+
+Top 10 words from speech 96: 
+British: 3 
+politics,: 3 
+british: 2 
+Churchill: 2 
+help: 1 
+ga.type: 1 
+Conditions</a>: 1 
+cameron: 1 
+content="british: 1 
+"Rhetoric: 1 
+
+Top 10 words from speech 95: 
+country: 17 
+Government: 15 
+new: 12 
+production: 11 
+first: 11 
+industry: 10 
+policy: 9 
+present: 8 
+National: 7 
+increase: 7 
+
+Top 10 words from speech 94: 
+country: 24 
+League: 16 
+country,: 14 
+world: 12 
+great: 12 
+people: 11 
+Trade: 10 
+believe: 9 
+whole: 9 
+own: 9 
+
+Top 10 words from speech 93: 
+Government: 15 
+country: 14 
+Tory: 11 
+great: 10 
+work: 9 
+working: 9 
+believe: 9 
+principles: 8 
+people: 8 
+first: 7 
+
+Top 10 words from speech 92: 
+country: 15 
+people: 11 
+great: 9 
+Baldwin,: 9 
+Baldwin: 8 
+country,: 7 
+credit: 6 
+financial: 6 
+convention: 6 
+world: 6 
+
+Top 10 words from speech 91: 
+Government: 19 
+country: 13 
+National: 12 
+continued: 8 
+men: 7 
+people: 7 
+great: 7 
+agreements: 7 
+Minister: 6 
+increase: 6 
+
+Top 10 words from speech 90: 
+Government: 12 
+peace: 12 
+new: 11 
+world: 11 
+great: 11 
+men: 8 
+country: 6 
+today: 6 
+House: 6 
+task: 6 
+
+Top 10 words from speech 89: 
+Labour: 20 
+country: 16 
+Liberal: 13 
+work: 10 
+people: 10 
+passed: 9 
+great: 9 
+confidence: 8 
+Parliament: 7 
+good: 7 
+
+Top 10 words from speech 88: 
+country: 17 
+today: 11 
+Government: 11 
+industry: 11 
+own: 10 
+great: 9 
+place: 8 
+part: 8 
+national: 8 
+efforts: 7 
+
+Top 10 words from speech 87: 
+Government: 25 
+country: 23 
+Bill: 12 
+men: 11 
+policy: 11 
+great: 11 
+first: 10 
+country,: 9 
+believe: 9 
+progress: 9 
+
+Top 10 words from speech 86: 
+Government: 29 
+country: 26 
+own: 18 
+(applause).: 16 
+Iraq: 15 
+people: 13 
+first: 13 
+British: 13 
+policy: 12 
+public: 12 
+
+Top 10 words from speech 85: 
+loan: 23 
+country: 21 
+trade: 20 
+Government: 19 
+Germany: 13 
+Russian: 12 
+people: 10 
+guarantee: 10 
+Labour: 10 
+(Cheers.): 9 
+
+Top 10 words from speech 84: 
+Government: 16 
+House: 16 
+great: 10 
+work: 7 
+Commons,: 7 
+members: 7 
+Commons: 7 
+Liberal: 6 
+vote: 6 
+believe: 6 
+
+Top 10 words from speech 83: 
+great: 27 
+peace: 23 
+British: 15 
+new: 13 
+Government: 10 
+war: 9 
+(Cheers.): 9 
+act: 8 
+conference: 7 
+old: 7 
+
+Top 10 words from speech 82: 
+Government: 31 
+war: 27 
+whole: 13 
+British: 12 
+Government,: 11 
+nothing: 11 
+right: 10 
+kind: 10 
+common: 10 
+Russia: 10 
+
+Top 10 words from speech 81: 
+land: 21 
+Government: 19 
+great: 14 
+whole: 13 
+(laughter): 12 
+first: 11 
+British: 11 
+position: 11 
+Ulster: 10 
+policy: 10 
+
+Top 10 words from speech 80: 
+(Cheers.): 44 
+House: 32 
+people: 24 
+Government: 20 
+United: 12 
+Commons: 12 
+Bill: 12 
+Home: 11 
+country: 10 
+Free: 9 
+
+Top 10 words from speech 79: 
+(Cheers.): 22 
+House: 22 
+Government: 17 
+great: 16 
+new: 15 
+British: 15 
+Home: 14 
+country: 14 
+gentlemen,: 13 
+(laughter): 12 
+
+Top 10 words from speech 78: 
+Second: 46 
+great: 44 
+House: 35 
+(Cheers.): 32 
+Chamber: 28 
+policy: 20 
+believe: 17 
+tariff: 15 
+(laughter): 14 
+country: 13 
+
+Top 10 words from speech 77: 
+(Cheers.): 40 
+country: 34 
+great: 32 
+industry: 26 
+land: 25 
+Budget: 23 
+part: 16 
+cotton: 16 
+House: 15 
+Free: 14 
+
+Top 10 words from speech 76: 
+great: 23 
+House: 19 
+Government: 18 
+present: 16 
+Bill: 14 
+British: 14 
+country: 12 
+(Applause.): 12 
+social: 11 
+against: 10 
+
+Top 10 words from speech 75: 
+great: 65 
+present: 21 
+social: 18 
+(Cheers.): 16 
+fiscal: 16 
+reform: 16 
+country: 14 
+whole: 14 
+first: 12 
+(Applause.): 12 
+
+Top 10 words from speech 74: 
+Government: 19 
+(Cheers.): 16 
+mandate: 16 
+country: 12 
+new: 11 
+great: 11 
+South: 11 
+House: 10 
+British: 10 
+teachers: 9 
+
+Top 10 words from speech 73: 
+country: 23 
+policy: 23 
+House: 23 
+great: 23 
+mean: 18 
+Balfour: 16 
+interests: 16 
+fiscal: 14 
+own: 14 
+Home: 13 
+
+Top 10 words from speech 72: 
+Russian: 33 
+great: 17 
+neutrals: 14 
+fleet: 13 
+Government: 11 
+North: 9 
+circumstances: 8 
+war: 8 
+place: 8 
+world: 8 
+
+Top 10 words from speech 71: 
+great: 36 
+country: 33 
+world: 24 
+tariff: 19 
+foreign: 19 
+man: 15 
+Free: 14 
+commercial: 14 
+nation: 12 
+taxation: 11 
+
+Top 10 words from speech 70: 
+Bill: 46 
+education: 44 
+schools: 43 
+great: 28 
+system: 28 
+country: 27 
+county: 24 
+voluntary: 20 
+children: 20 
+control: 20 
+
+Top 10 words from speech 69: 
+great: 12 
+London: 10 
+social: 7 
+Salisbury: 6 
+kind: 5 
+Conservative: 5 
+Lord: 4 
+British: 4 
+remember: 4 
+issue: 4 
+
+Top 10 words from speech 68: 
+great: 17 
+London: 14 
+France: 12 
+doubt: 12 
+country: 11 
+Government: 11 
+men: 10 
+matter: 10 
+result: 9 
+people: 9 
+
+Top 10 words from speech 67: 
+change: 31 
+Liberal: 29 
+real: 23 
+people: 19 
+Democrats: 14 
+tax: 13 
+Britain: 13 
+first: 12 
+pay: 12 
+beginning: 11 
+
+Top 10 words from speech 66: 
+government: 23 
+people: 22 
+money: 14 
+Labour: 12 
+tax: 11 
+million: 10 
+Britain: 10 
+economy: 8 
+first: 8 
+British: 8 
+
+Top 10 words from speech 65: 
+Liberal: 23 
+country: 19 
+people: 18 
+freedom: 18 
+British: 15 
+Democrats: 14 
+government: 13 
+against: 12 
+Labour: 12 
+change: 10 
+
+Top 10 words from speech 64: 
+Liberal: 22 
+people: 13 
+public: 13 
+Democrats: 11 
+tax: 10 
+politics: 9 
+British: 9 
+Labour: 9 
+new: 8 
+services: 8 
+
+Top 10 words from speech 63: 
+people: 15 
+liberal: 15 
+British: 13 
+government: 13 
+Liberal: 12 
+Britain: 12 
+Labour: 8 
+Iraq: 7 
+solutions: 6 
+right: 6 
+
+Top 10 words from speech 62: 
+Liberal: 24 
+people: 20 
+Democrats: 15 
+local: 15 
+stand: 14 
+Britain: 11 
+country: 10 
+first: 10 
+Conservatives: 9 
+third: 8 
+
+Top 10 words from speech 61: 
+people: 23 
+government: 15 
+local: 13 
+Liberal: 10 
+Labour: 10 
+country: 8 
+liberal: 7 
+House: 7 
+British: 7 
+system: 7 
+
+Top 10 words from speech 60: 
+Liberal: 20 
+British: 14 
+people: 12 
+public: 11 
+Democrats: 11 
+government: 11 
+new: 8 
+European: 7 
+speak: 7 
+Labour: 7 
+
+Top 10 words from speech 59: 
+people: 12 
+public: 12 
+international: 11 
+Liberal: 8 
+clear: 7 
+against: 6 
+first: 6 
+effective: 5 
+civil: 5 
+local: 5 
+
+Top 10 words from speech 58: 
+Liberal: 26 
+Britain: 14 
+people: 14 
+needs: 9 
+British: 9 
+freedom: 8 
+government: 7 
+believe: 6 
+Democrats: 5 
+difference: 5 
+
+Top 10 words from speech 57: 
+government: 27 
+people: 18 
+good: 13 
+British: 13 
+Liberal: 12 
+local: 11 
+politics: 11 
+enough: 9 
+Britain.: 8 
+Democrats: 8 
+
+Top 10 words from speech 56: 
+new: 11 
+global: 8 
+power: 7 
+first: 5 
+great: 5 
+people: 5 
+public: 4 
+market: 4 
+control: 4 
+British: 4 
+
+Top 10 words from speech 55: 
+people: 37 
+Britain: 27 
+Liberal: 22 
+country: 21 
+fear: 18 
+Democrats: 17 
+nation: 16 
+British: 15 
+new: 13 
+tax: 13 
+
+Top 10 words from speech 54: 
+people: 23 
+government: 21 
+Liberal: 19 
+Democrats: 17 
+Europe: 15 
+education: 12 
+House: 11 
+Britain: 10 
+new: 9 
+first: 9 
+
+Top 10 words from speech 53: 
+people: 18 
+Britain: 18 
+new: 15 
+Liberal: 15 
+country: 14 
+UN: 12 
+future: 10 
+first: 8 
+crime: 8 
+means: 8 
+
+Top 10 words from speech 52: 
+people: 26 
+Britain: 20 
+new: 18 
+means: 17 
+change: 16 
+Government: 16 
+Liberal: 14 
+right: 13 
+giving: 11 
+opportunity: 10 
+
+Top 10 words from speech 51: 
+Liberalism: 18 
+Liberal: 16 
+great: 9 
+new: 8 
+people: 7 
+commitment: 5 
+Britain: 5 
+together: 5 
+provide: 4 
+British: 4 
+
+Top 10 words from speech 50: 
+new: 24 
+British: 12 
+government: 12 
+public: 10 
+local: 7 
+Minister: 7 
+opportunity: 7 
+people: 7 
+Prime: 7 
+private: 7 
+
+Top 10 words from speech 49: 
+Labour: 11 
+Alliance: 8 
+country: 6 
+people: 6 
+parties: 6 
+women: 5 
+Government: 5 
+government: 5 
+Thatcher: 5 
+public: 4 
+
+Top 10 words from speech 48: 
+government: 33 
+Britain: 21 
+people: 18 
+Alliance: 18 
+Thatcher: 17 
+Labour: 15 
+power: 14 
+local: 14 
+defence: 12 
+European: 12 
+
+Top 10 words from speech 47: 
+government: 40 
+new: 25 
+people: 23 
+British: 20 
+public: 18 
+Alliance: 16 
+private: 15 
+local: 13 
+Britain: 12 
+good: 11 
+
+Top 10 words from speech 46: 
+Britain: 26 
+government: 24 
+new: 20 
+country: 18 
+people: 15 
+against: 14 
+Government: 14 
+British: 14 
+Labour: 14 
+Tory: 12 
+
+Top 10 words from speech 45: 
+new: 18 
+Alliance: 16 
+public: 14 
+local: 13 
+people: 12 
+Britain: 12 
+means: 12 
+own: 12 
+election: 11 
+Government: 10 
+
+Top 10 words from speech 44: 
+Alliance: 18 
+parties: 13 
+Labour: 11 
+new: 10 
+election: 9 
+British: 8 
+Liberal: 8 
+own: 6 
+public: 5 
+increase: 5 
+
+Top 10 words from speech 43: 
+people: 18 
+British: 14 
+Britain: 12 
+new: 11 
+Labour: 10 
+Government: 9 
+government: 9 
+unemployment: 8 
+Alliance: 8 
+real: 8 
+
+Top 10 words from speech 42: 
+Liberal: 22 
+government: 20 
+people: 17 
+new: 16 
+Alliance: 15 
+country: 12 
+Tory: 11 
+public: 10 
+great: 10 
+British: 10 
+
+Top 10 words from speech 41: 
+government: 21 
+Liberal: 20 
+Labour: 20 
+Government: 15 
+new: 13 
+people: 12 
+industrial: 11 
+policies: 11 
+British: 10 
+believe: 9 
+
+Top 10 words from speech 40: 
+Liberal: 17 
+Labour: 16 
+new: 14 
+spirit: 13 
+national: 13 
+industrial: 12 
+country: 11 
+Tory: 11 
+policies: 11 
+Britain: 11 
+
+Top 10 words from speech 39: 
+Labour: 26 
+government: 22 
+new: 20 
+British: 15 
+local: 14 
+Parliament: 13 
+Britain: 13 
+people: 12 
+Liberals: 11 
+Conservative: 11 
+
+Top 10 words from speech 38: 
+Liberal: 19 
+society: 14 
+Labour: 14 
+Britain: 12 
+liberty: 10 
+new: 10 
+national: 9 
+free: 8 
+Liberals: 8 
+left: 8 
+
+Top 10 words from speech 37: 
+government: 29 
+Liberal: 25 
+Labour: 20 
+right: 15 
+new: 14 
+influence: 11 
+people: 10 
+trade: 10 
+Conservative: 10 
+country: 9 
+
+Top 10 words from speech 36: 
+people: 30 
+country: 19 
+public: 15 
+Tory: 12 
+British: 12 
+Labour: 12 
+Liberals: 11 
+believe: 11 
+country.: 10 
+Britain: 10 
+
+Top 10 words from speech 35: 
+war: 19 
+great: 16 
+Liberal: 13 
+British: 12 
+world: 11 
+Government: 10 
+power: 10 
+own: 8 
+country: 7 
+people: 7 
+
+Top 10 words from speech 34: 
+war: 23 
+Liberal: 19 
+people: 16 
+great: 15 
+work: 10 
+economic: 10 
+international: 9 
+United: 9 
+Government: 9 
+own: 9 
+
+Top 10 words from speech 33: 
+economic: 18 
+war: 13 
+world: 13 
+men: 8 
+peace: 8 
+Liberal: 7 
+new: 7 
+old: 7 
+nations: 6 
+international: 6 
+
+Top 10 words from speech 32: 
+Liberal: 18 
+freedom: 14 
+war: 13 
+against: 9 
+enemy: 7 
+great: 7 
+British: 7 
+man: 6 
+Royal: 6 
+Nazi: 6 
+
+Top 10 words from speech 31: 
+Liberal: 26 
+League: 24 
+Government: 24 
+country: 17 
+unemployment: 14 
+power: 14 
+economic: 13 
+men: 11 
+great: 11 
+Convention: 9 
+
+Top 10 words from speech 30: 
+Liberal: 16 
+trade: 12 
+British: 12 
+Government: 11 
+great: 11 
+country: 9 
+policy: 9 
+whole: 9 
+food: 8 
+Ottawa: 8 
+
+Top 10 words from speech 29: 
+land: 34 
+country: 31 
+work: 28 
+great: 20 
+population: 19 
+Government: 17 
+present: 16 
+men: 15 
+number: 12 
+national: 12 
+
+Top 10 words from speech 28: 
+great: 21 
+Government: 14 
+Lloyd: 10 
+British: 10 
+Labour: 10 
+Liberal: 9 
+George: 9 
+men: 8 
+country: 8 
+Germany: 8 
+
+Top 10 words from speech 27: 
+Liberal: 36 
+country: 19 
+Liberals: 19 
+Tory: 17 
+Socialists: 15 
+Socialist: 13 
+Government: 12 
+Parliament: 12 
+Labour: 12 
+general: 11 
+
+Top 10 words from speech 26: 
+Lloyd: 21 
+Liberal: 16 
+Government: 14 
+George: 12 
+Russia: 9 
+great: 9 
+country: 9 
+people: 9 
+George,: 8 
+Home: 7 
+
+Top 10 words from speech 25: 
+Liberal: 11 
+new: 6 
+British: 5 
+thought: 5 
+pensions: 4 
+industries: 4 
+Oxford: 4 
+Lord: 4 
+children: 3 
+million: 3 
+
+Top 10 words from speech 24: 
+Liberal: 22 
+Labour: 19 
+Government: 13 
+national: 10 
+House: 9 
+Bill: 9 
+first: 8 
+Imperial: 7 
+against: 6 
+real: 6 
+
+Top 10 words from speech 23: 
+Liberal: 21 
+Ireland: 9 
+Government: 9 
+League: 8 
+House: 8 
+Bill: 8 
+old: 7 
+policy: 7 
+new: 6 
+international: 6 
+
+Top 10 words from speech 22: 
+Coalition: 14 
+Liberal: 13 
+Prime: 12 
+Minister: 11 
+policy: 9 
+old: 8 
+Government: 8 
+country: 7 
+Lord: 6 
+Liberals: 5 
+
+Top 10 words from speech 21: 
+policy: 18 
+Liberal: 14 
+great: 13 
+House: 10 
+first: 8 
+long: 7 
+Lord: 6 
+Tory: 6 
+people: 6 
+Sir: 6 
+
+Top 10 words from speech 20: 
+Ireland: 21 
+Liberal: 17 
+Government: 13 
+great: 13 
+first: 12 
+Irish: 12 
+own: 10 
+country: 9 
+House: 9 
+new: 8 
+
+Top 10 words from speech 19: 
+Liberal: 14 
+great: 14 
+Government: 11 
+Bill: 11 
+first: 10 
+Liberals: 9 
+economic: 9 
+case: 9 
+question: 9 
+free: 8 
+
+Top 10 words from speech 18: 
+war: 22 
+own: 16 
+new: 14 
+old: 14 
+great: 13 
+free: 12 
+first: 12 
+German: 10 
+peace: 10 
+against: 9 
+
+Top 10 words from speech 17: 
+Irish: 20 
+Home: 16 
+expenditure: 14 
+General: 13 
+Liberal: 12 
+Parliament: 12 
+great: 12 
+country: 11 
+House: 11 
+Bill: 11 
+
+Top 10 words from speech 16: 
+House: 24 
+Tariff: 16 
+Tory: 14 
+Parliament: 13 
+Home: 12 
+first: 11 
+majority: 11 
+Lord: 10 
+Government: 10 
+Reform: 10 
+
+Top 10 words from speech 15: 
+House: 46 
+Tory: 15 
+Commons: 14 
+country: 12 
+great: 12 
+Liberal: 11 
+Lords: 11 
+majority: 11 
+question: 11 
+scheme: 10 
+
+Top 10 words from speech 14: 
+land: 44 
+tax: 20 
+taxes: 18 
+first: 13 
+value: 13 
+Budget: 12 
+land,: 11 
+great: 11 
+agricultural: 11 
+increment: 9 
+
+Top 10 words from speech 13: 
+Tariff: 13 
+old: 12 
+man: 11 
+formula: 9 
+House: 8 
+social: 8 
+British: 8 
+country: 7 
+people: 7 
+first: 7 
+
+Top 10 words from speech 12: 
+House: 38 
+Lords: 15 
+Liberal: 13 
+Commons: 13 
+great: 11 
+people: 10 
+country: 9 
+Commons,: 8 
+better: 7 
+Reform: 7 
+
+Top 10 words from speech 11: 
+country: 18 
+Government: 17 
+Chamberlain: 14 
+House: 14 
+policy: 13 
+Bill: 13 
+trade: 10 
+Balfour: 9 
+Canadian: 9 
+Minister: 9 
+
+Top 10 words from speech 10: 
+Irish: 18 
+tax: 15 
+Government: 12 
+country: 10 
+people: 9 
+present: 9 
+new: 8 
+old: 8 
+policy: 8 
+Bill: 8 
+
+Top 10 words from speech 9: 
+Government: 17 
+country: 16 
+great: 15 
+war: 14 
+own: 11 
+British: 10 
+whole: 8 
+men: 7 
+Liberal: 7 
+against: 7 
+
+Top 10 words from speech 8: 
+Liberal: 21 
+great: 20 
+power: 19 
+people: 18 
+question: 17 
+gentlemen,: 15 
+House: 14 
+new: 12 
+Irish: 12 
+ladies: 10 
+
+Top 10 words from speech 7: 
+Lord: 38 
+Bill: 32 
+Liberal: 28 
+Government: 28 
+great: 26 
+policy: 24 
+integrity: 18 
+House: 17 
+Ottoman: 17 
+Salisbury: 17 
+
+Top 10 words from speech 6: 
+Government: 44 
+foreign: 27 
+Liberal: 26 
+great: 24 
+policy: 18 
+good: 16 
+Egypt: 13 
+expedition: 12 
+present: 12 
+people: 11 
+
+Top 10 words from speech 5: 
+Church: 37 
+House: 30 
+Liberal: 27 
+first: 25 
+question: 19 
+Government: 18 
+Establishment: 18 
+great: 17 
+State: 16 
+gentlemen,: 15 
+
+Top 10 words from speech 4: 
+British: 3 
+politics,: 3 
+british: 2 
+sorry,: 1 
+ga.type: 1 
+cameron: 1 
+content="british: 1 
+found.</h3>: 1 
+"Rhetoric: 1 
+<ul><li: 1 
+
+Top 10 words from speech 3: 
+British: 3 
+politics,: 3 
+british: 2 
+sorry,: 1 
+ga.type: 1 
+cameron: 1 
+content="british: 1 
+found.</h3>: 1 
+"Rhetoric: 1 
+<ul><li: 1 
+
+Top 10 words from speech 2: 
+people: 26 
+Labour: 23 
+British: 15 
+public: 13 
+New: 12 
+Britain: 10 
+new: 9 
+country: 9 
+first: 9 
+politics: 9 
+
+Top 10 words from speech 1: 
+people: 13 
+Britain: 9 
+long: 8 
+British: 7 
+world: 7 
+respect: 6 
+country: 6 
+against: 6 
+right: 6 
+Conservatives: 5 
+
